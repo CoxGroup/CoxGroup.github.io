@@ -1,17 +1,14 @@
-publications:
-  2024:
-    - title: "Flow is slow at the nanoscale: Revisiting the Green-Kubo relation for friction"
-      authors: "AT Bui, SJ Cox"
-      link: "https://arxiv.org/abs/2409.07134v1"
+- title: "Flow is slow at the nanoscale: Revisiting the Green-Kubo relation for friction"
+  authors: "AT Bui, SJ Cox"
+  year: 2024
+  link: "https://arxiv.org/abs/2409.07134v1"
+  image: "/publications/logo-electrochemical.png"
 
-    - title: "A classical density functional theory for solvation across length scales"
-      authors: "AT Bui, SJ Cox"
-      journal: "J Chem Phys"
-      volume: "161"
-      pages: "104103"
-      doi: "https://doi.org/10.1063/5.0223750"
-
-  2023:
-    - title: "Exploring the properties of nanoscale materials"
-      authors: "AT Bui, SJ Cox"
-      link: "https://example.com/2023-paper"
+- title: "A classical density functional theory for solvation across length scales"
+  authors: "AT Bui, SJ Cox"
+  year: 2024
+  journal: "J Chem Phys"
+  volume: "161"
+  article: "104103"
+  doi: "https://doi.org/10.1063/5.0223750"
+  image: "/publications/logo-electrochemical.png"

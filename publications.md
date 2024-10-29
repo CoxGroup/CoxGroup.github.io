@@ -3,20 +3,23 @@ layout: default
 title: Publications
 ---
 
-## 2024
+{% assign publications = site.data.publications %}
 
-<b>Flow is slow at the nanoscale: Revisiting the Green-Kubo relation for friction</b><br>
-AT Bui, SJ Cox <b>(2024)</b> <br>
-([link to publication](https://arxiv.org/abs/2409.07134v1))
-<br>
-
-<b>A classical density functional theory for solvation across length scales</b><br>
-AT Bui, SJ Cox – J Chem Phys <b>(2024)</b> <i>161</i>, 104103 <br>
-(doi: [10.1063/5.0223750](https://doi.org/10.1063/5.0223750))
-<br>
-
-etc
-
-## 2023
-
-etc
+{% for publication in publications %}
+  <div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+    <img src="{{ publication.image }}" alt="Thumbnail" style="width: 150px; height: auto; margin-right: 10px;">
+    <div>
+      <strong>{{ publication.title }}</strong><br>
+      {{ publication.authors }} <strong>({{ publication.year }})</strong><br>
+      {% if publication.journal %}<em>{{ publication.journal }}</em>{% endif %}
+      {% if publication.volume %}<em>{{ publication.volume }}</em>{% endif %}
+      {% if publication.article %}, {{ publication.article }}{% endif %}<br>
+      
+      {% if publication.doi %}
+        (doi: <a href="{{ publication.doi }}">{{ publication.doi }}</a>)
+      {% elsif publication.link %}
+        <a href="{{ publication.link }}">[link to publication]</a>
+      {% endif %}
+    </div>
+  </div>
+{% endfor %}
