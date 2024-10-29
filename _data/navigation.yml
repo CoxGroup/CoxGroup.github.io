@@ -2,11 +2,6 @@
   link: "/"
 - name: "GROUP"
   link: "/group/"
-  submenu:
-    - name: "Stephen Cox"
-      link: "/steve/"
-    - name: "Group members"
-      link: "/members/"
 - name: "RESEARCH"
   link: "/research/"
   submenu:

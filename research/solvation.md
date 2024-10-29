@@ -7,9 +7,9 @@ title: Solvation and dielectric response
     <img src="/research_sites/solvationtop.png" alt="Alt text" style="width: 100%;" />
 </div>
 
-# Solvation
+<h1> Solvation </h1>
 
-<h2>Why do we care?</h2>
+<h3>Why do we care?</h3>
 
 You might be hard pushed to argue there is a more important solvent than water; the physical principles that underlie aqueous ion solvation are important across a broad range of scientific disciplines, such as biochemistry, desalination, geochemistry and crystallization. 
 
