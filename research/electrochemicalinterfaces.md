@@ -3,7 +3,8 @@ layout: default
 title: Electrochemical interfaces
 ---
 
-<div class = "pageheadline" >ELECTROCHEMICAL INTERFACES</div>
+<div class = "pageheadline" >Electrochemical Interfaces</div>
+<hr class="custom-hr">
 <br>
 
 <div style="text-align: center;">

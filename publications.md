@@ -3,6 +3,10 @@ layout: default
 title: Publications
 ---
 
+<div class = "pageheadline" >Publications</div>
+<hr class="custom-hr">
+<br>
+
 {% assign publications = site.data.publications %}
 
 {% for publication in publications %}

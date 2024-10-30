@@ -3,7 +3,8 @@ layout: default
 title: Solvation and dielectric response
 ---
 
-<div class = "pageheadline" >SOLVATION AND DIELECTRIC RESPONSE</div>
+<div class = "pageheadline" >Solvation and Dielectric Response</div>
+<hr class="custom-hr">
 <br>
 
 <div style="text-align: center;">

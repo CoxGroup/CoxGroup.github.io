@@ -3,7 +3,8 @@ layout: default
 title: Nanoscale flow
 ---
 
-<div class = "pageheadline" >NANOSCALE FLOW</div>
+<div class = "pageheadline" >Nanoscale Flow</div>
+<hr class="custom-hr">
 <br>
 
 <div style="text-align: center;">

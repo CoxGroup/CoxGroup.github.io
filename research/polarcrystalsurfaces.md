@@ -3,7 +3,11 @@ layout: default
 title: Polar crystal surfaces
 ---
 
-<div class = "pageheadline" >POLAR CRYSTAL SURFACES</div>
+<div class="pageheadline">
+    <span class="underline">Polar Crystal Surfaces</span>
+</div>
+<hr class="custom-hr">
+
 <br>
 
 <div style="text-align: center;">

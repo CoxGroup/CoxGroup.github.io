@@ -5,7 +5,7 @@ title: Home
 
 <!-- Text -->
 <p>
-Welcome to the Cox group homepage! We are a <b>computational</b> and <b>theoretical chemistry</b> group in the Department of Chemistry, Durham University.
+Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoretical chemistry</b> group in the Department of Chemistry, Durham University.
 </p>
 
 <p>In the Cox Group, we use theory and molecular simulations to understand the properties of liquids and liquid-solid interfaces. Our focus is on understanding emergent phenomena: How do properties at the microscopic scale impact phenomena on the meso- and macro scales? Individual research topics fall broadly within the following themes:</p>

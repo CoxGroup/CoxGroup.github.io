@@ -396,3 +396,11 @@ a {
   font-size: 60px; /* Add a semicolon at the end */
   font-weight: bold;
 }
+
+.custom-hr {
+  border: none; 
+  height: 2px; 
+  width: 200px; 
+  margin-left: 0;
+  margin-top: 10px;
+}
