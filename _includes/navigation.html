@@ -5,80 +5,106 @@
             padding: 0;
         }
         nav {
-            background-color: #76b2d5; /* Change this to your desired color */
-            padding: 5px;
+            background-color: #9ad0ef;
+            padding: 10px; /* Adjust padding for more space */
             display: flex;
-            justify-content: space-around;
-            align-items: center;
-            position: relative;
+            align-items: center; /* Center align vertically */
+        }
+        .nav-header {
+            display: flex; /* Flex container for image and title */
+            flex-direction: column; /* Stack title and buttons vertically */
+            margin-left: 10px; /* Space between image and text */
+        }
+        nav img {
+            height: 40px; /* Adjust height as needed */
+            margin-left: 0.4em;
+            margin-right: 1em;
+        }
+        nav h2 {
+            color: rgb(0, 0, 0); /* Text color */
+            margin: 0; /* Remove default margin */
+            font-size: 1.5em; /* Adjust font size */
+        }
+        .nav-buttons {
+            display: flex; /* Flex container for buttons */
+            flex-wrap: wrap; /* Allow buttons to wrap if there's not enough space */
+            justify-content: flex-start; /* Align buttons to the start (left) */
         }
         nav a {
-            color: white;
+            color: rgb(0, 0, 0);
             text-decoration: none;
-            padding: 5px;
-            margin: 5px;
+            padding: 5px 10px; /* Added horizontal padding */
+            margin: 0 5px; /* Horizontal margin between links */
             line-height: 1;
             position: relative;
         }
         nav a:hover {
-            background-color: #2c84bc; /* Change background color on hover */
-            text-decoration: none; /* No underline on hover */
+            background-color: #2c84bc;
+            text-decoration: none;
         }
-        .current {
-            font-weight: bold;
-        }
-        /* Dropdown styles */
         .dropdown {
             position: relative;
         }
         .dropdown-content {
-            display: none; /* Hide dropdown initially */
+            display: none;
             position: absolute;
-            background-color: #56a0cc; /* Dropdown background color */
+            background-color: #56a0cc;
             min-width: 160px;
-            box-shadow: 0px 8px 16px rgba(0,0,0,0.2); /* Optional shadow */
+            box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
             z-index: 1;
         }
         .dropdown-content a {
-            color: white;
+            color: rgb(0, 0, 0);
             padding: 10px 16px;
             text-decoration: none;
             display: block;
         }
         .dropdown-content a:hover {
-            background-color: #2c84bc; /* Change color on hover */
-            text-decoration: none; /* No underline on hover */
+            background-color: #2c84bc;
+            text-decoration: none;
         }
         .dropdown:hover .dropdown-content {
-            display: block; /* Show the dropdown on hover */
+            display: block;
         }
-        /* Arrow styles */
         .dropdown-arrow {
             display: inline-block;
             width: 0;
             height: 0;
-            margin-left: 0.2em; /* Space between the text and arrow */
+            margin-left: 0.2em;
             border-left: 5px solid transparent;
             border-right: 5px solid transparent;
-            border-top: 5px solid white; /* Color of the arrow */
-            vertical-align: middle; /* Align with text */
+            border-top: 5px solid rgb(0, 0, 0);
+            vertical-align: middle;
+        }
+        .thecoxgroup {
+            font-size: 24px;
+            color: #000000;
+        }
+        .department {
+            font-size: 16px;
+            color: #0000007e;
         }
     </style>
 
-    {% for item in site.data.navigation %}
-        {% if item.submenu %}
-        <!-- Parent item with dropdown -->
-        <div class="dropdown">
-            <a href="{{ item.link }}" class="{% if page.url == item.link %}current{% endif %}">{{ item.name }} <span class="dropdown-arrow"></span></a>
-            <div class="dropdown-content">
-                {% for submenu_item in item.submenu %}
-                    <a href="{{ submenu_item.link }}">{{ submenu_item.name }}</a>
-                {% endfor %}
-            </div>
+    <!-- Flex container for the image and title -->
+    <img src="/homepage/cambridgelogo.png" alt="Logo">
+    <div class="nav-header">
+        <div><span class = "thecoxgroup"> <b>THE COX GROUP</b> </span> <span class = department> DEPARTMENT OF CHEMISTRY</span></div>
+        <div class="nav-buttons">
+            {% for item in site.data.navigation %}
+                {% if item.submenu %}
+                <div class="dropdown">
+                    <a href="{{ item.link }}" class="{% if page.url == item.link %}current{% endif %}">{{ item.name }} <span class="dropdown-arrow"></span></a>
+                    <div class="dropdown-content">
+                        {% for submenu_item in item.submenu %}
+                            <a href="{{ submenu_item.link }}">{{ submenu_item.name }}</a>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% else %}
+                <a href="{{ item.link }}" class="{% if page.url == item.link %}current{% endif %}">{{ item.name }}</a>
+                {% endif %}
+            {% endfor %}
         </div>
-        {% else %}
-        <!-- Regular navigation item -->
-        <a href="{{ item.link }}" class="{% if page.url == item.link %}current{% endif %}">{{ item.name }}</a>
-        {% endif %}
-    {% endfor %}
+    </div>
 </nav>

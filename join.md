@@ -3,8 +3,10 @@ layout: default
 title: Join us!
 ---
 
-<b>Interested in doing a summer project, Masters, PhD, or Postdoc with us? </b>
+<h2>Interested in joining the Cox Group?</h2>
 
-We are a newly established group that is always looking for talented and enthusiastic individuals to join the team.
+<b>PhD studentship (UK fees) available for October 2025!</b>
 
-If you are interested in joining the team, please contact Steve (stephen.j.cox@durham.ac.uk) at first instance to discuss research opportunities and funding options.
+If you are interested in PhD research but do not qualify for UK fees, please contact Steve (stephen.j.cox@durham.ac.uk) with a CV and statement of research interests to discuss funding opportunities.
+
+Postdoctoral research positions will be announced when appropriate funding is available. We are also happy to host early career researchers with individual fellowships (e.g., Leverhulme ECFs, 1851 Research Fellows, Marie Curie). Please contact Steve if you are thinking of applying.

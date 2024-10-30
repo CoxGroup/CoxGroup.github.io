@@ -22,4 +22,5 @@ title: Publications
       {% endif %}
     </div>
   </div>
+  <hr>
 {% endfor %}
