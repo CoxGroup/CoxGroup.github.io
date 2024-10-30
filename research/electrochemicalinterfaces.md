@@ -2,8 +2,12 @@
 layout: default
 title: Electrochemical interfaces
 ---
+
+<div class = "pageheadline" >ELECTROCHEMICAL INTERFACES</div>
+<br>
+
 <div style="text-align: center;">
-    <img src="/research_sites/electrochemicaltop.png" alt="Alt text" style="width: 100%;" />
+    <img src="/research/electrochemicaltop.png" alt="Alt text" style="width: 100%;" />
 </div>
 
 

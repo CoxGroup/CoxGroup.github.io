@@ -1,16 +1,14 @@
 ---
-layout: home_layout
+layout: index_layout
 title: Home
 ---
 
 <!-- Text -->
-<div style="text-align: center;">
-  <h2> Welcome to <b>the Cox group</b> homepage! We are a new <b>computational</b> and <b>theoretical chemistry</b> group in the Department of Chemistry, Durham University.</h2>
-</div>
+<p>
+Welcome to the Cox group homepage! We are a <b>computational</b> and <b>theoretical chemistry</b> group in the Department of Chemistry, Durham University.
+</p>
 
-<p>A basic aim in chemistry is to understand and control the structure of materials at the atomic scale. We now have many tools at our disposal to characterise and manipulate atomic structure under "clean" conditions e.g., under vacuum. But clean conditions are the exception, not the rule.</p>
-
-<p>In our research, we aim to shed light on how the surrounding solution environment (in essence, salty water) affects the structure and dynamics of materials. We place a particular emphasis on charged surfaces, as not only are these common across science and technology, but they also act as a handle that we can use to control a material's properties via the solution environment.</p>
+<p>In the Cox Group, we use theory and molecular simulations to understand the properties of liquids and liquid-solid interfaces. Our focus is on understanding emergent phenomena: How do properties at the microscopic scale impact phenomena on the meso- and macro scales? Individual research topics fall broadly within the following themes:</p>
 
 <br><br>
 
@@ -41,3 +39,8 @@ title: Home
         <p> <b>Electrochemical interfaces</b> </p>
     </div>
 </div>
+
+<br>
+<p>
+    <strong>Interested in <a href="/join/">joining us?</a></strong> We are always looking for talented and enthusiastic individuals to join the team.
+</p>

@@ -109,7 +109,13 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-image: url("/HOMEPAGE/placeholderbanner.jpeg");
+  background-size: cover; /* Makes sure the image covers the entire header */
+  background-position: center; /* Centers the image */
+
+  height: 250px; /* Set a fixed height for the header */
+  max-width: 100%; /* Allows the width to adjust up to the maximum of its container */
+  overflow: hidden; /* Hides any overflow if the image is larger than the header */
 
   @include large {
     padding: 2rem 1rem 1rem;
@@ -167,7 +173,6 @@ a {
   }
 
   @include large {
-    max-width: 64rem;
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 1.1rem;
@@ -375,4 +380,19 @@ a {
 
 .site-footer-credits {
   color: $blockquote-text-color;
+}
+
+.highlight-box {
+  background-color: #5f84a190; /* Change this to your desired background color */
+  color: #ffffff; /* Text color */
+  padding: 10px; /* Space inside the box */
+  border-radius: 30px; /* Rounded corners */
+  display: inline-block; /* Makes the box fit the text */
+  text-align: center; /* Center align text */
+}
+
+.pageheadline { 
+  color: #1A4468; /* Add a semicolon at the end */
+  font-size: 60px; /* Add a semicolon at the end */
+  font-weight: bold;
 }

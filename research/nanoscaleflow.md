@@ -3,8 +3,11 @@ layout: default
 title: Nanoscale flow
 ---
 
+<div class = "pageheadline" >NANOSCALE FLOW</div>
+<br>
+
 <div style="text-align: center;">
-    <img src="/research_sites/nanoscaletop.png" alt="Alt text" style="width: 100%;" />
+    <img src="/research/nanoscaletop.png" alt="Alt text" style="width: 100%;" />
 </div>
 
 ## Why do we care?
@@ -16,7 +19,7 @@ For over a decade, experiments have shown that water exhibits several remarkable
 Recently, a theoretical framework, [*quantum friction*](https://www.nature.com/articles/s41586-021-04284-7), has been proposed as the missing element in the traditional picture of liquid-solid friction. Direct verification of this new theory of quantum friction (from either experiments or theory) is, however, lacking. In our work, [*Classical quantum friction at water-carbon interfaces*](https://arxiv.org/abs/2210.14040), we provide the first attempt from simulations to model and understand quantum friction at the microscopic level. Our classical model captures the coupling between the water and carbon substrate which increases friction in a manner comparable to predictions from theory. Importantly, our results will help to guide future experimental verification (or not) of quantum friction, by revealing that the substrate dynamics is much more strongly affected than that of the fluid.
 
 <div style="text-align: center;">
-    <img src="/research_sites/TOC-fun.png" alt="Alt text" style="width: 70%;" />
+    <img src="/research/TOC-fun.png" alt="Alt text" style="width: 70%;" />
 </div>
 
 

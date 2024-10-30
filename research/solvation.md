@@ -3,8 +3,11 @@ layout: default
 title: Solvation and dielectric response
 ---
 
+<div class = "pageheadline" >SOLVATION AND DIELECTRIC RESPONSE</div>
+<br>
+
 <div style="text-align: center;">
-    <img src="/research_sites/solvationtop.png" alt="Alt text" style="width: 100%;" />
+    <img src="/research/solvationtop.png" alt="Alt text" style="width: 100%;" />
 </div>
 
 <h1> Solvation </h1>

@@ -3,7 +3,7 @@ layout: default
 title: Join us!
 ---
 
-<h2>Interested in joining the Cox Group?</h2>
+<h1>Interested in joining the Cox Group?</h1>
 
 <b>PhD studentship (UK fees) available for October 2025!</b>
 

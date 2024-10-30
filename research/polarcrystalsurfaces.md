@@ -3,20 +3,22 @@ layout: default
 title: Polar crystal surfaces
 ---
 
+<div class = "pageheadline" >POLAR CRYSTAL SURFACES</div>
+<br>
 
 <div style="text-align: center;">
-    <img src="/research_sites/polarsurface.png" alt="Alt text" style="width: 100%;" />
+    <img src="/research/polarsurface.png" alt="Alt text" style="width: 100%;" />
 </div>
 
 
-## What are polar surfaces?
+<h2> What are polar surfaces? </h2>
 
 When you think of charged surfaces, you might imagine acid-base chemistry where protons are transferred between the functional groups at the surface and the solution. Or you might think of an electrode that’s held at constant electropotential. You might even consider a combination of the two. Maybe less obvious is that surface charge can originate from the structure of the crystal itself. 
 
 Simple table salt provides an everyday example. Imagine that we create surfaces by successively removing a layer of ions, starting from the corner of the crystal, like we show in the picture. Each time, the exposed surface is charged, containing just Na<sup>+</sup> (orange) or Cl<sup>-</sup> (green) ions.
 
 <div style="text-align: center;">
-    <img src="/research_sites/polarsurface_0.png" alt="Alt text" style="width: 70%;" />
+    <img src="/research/polarsurface_0.png" alt="Alt text" style="width: 70%;" />
 </div>
 
 ## Why do we care?
