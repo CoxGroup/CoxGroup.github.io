@@ -1,14 +1,166 @@
+- title: "Learning classical density functionals for ionic fluids"
+  authors: "AT Bui, SJ Cox"
+  year: 2024
+  link: "https://arxiv.org/abs/2410.02556v1"
+  #  image: To be added
+
+- title: "Crumbling Crystals: On the Dissolution Mechanism of NaCl in Water"
+  authors: "N O'Neill, C Schran, SJ Cox, A Michaelides"
+  year: 2024
+  journal: "Phys. Chem. Chem. Phys."
+  volume: "26"
+  article: "42"
+  doi: "http://dx.doi.org/10.1039/D4CP03115F"
+  image: "/publications/CrumblingCrystalsTOC.gif"
+
 - title: "Flow is slow at the nanoscale: Revisiting the Green-Kubo relation for friction"
   authors: "AT Bui, SJ Cox"
   year: 2024
   link: "https://arxiv.org/abs/2409.07134v1"
-  image: "/publications/logo-electrochemical.png"
+  # image: To be added
 
 - title: "A classical density functional theory for solvation across length scales"
   authors: "AT Bui, SJ Cox"
   year: 2024
-  journal: "J Chem Phys"
+  journal: "J. Chem. Phys."
   volume: "161"
   article: "104103"
   doi: "https://doi.org/10.1063/5.0223750"
-  image: "/publications/logo-electrochemical.png"
+  #  image: To be added
+
+- title: "Impedance of nanocapacitors from molecular simulations to understand the dynamics of confined electrolytes"
+  authors: "G Pireddu, C Fairchild, S Niblett, S Cox, B Rotenberg"
+  year: 2024
+  journal: "Proc. Natl. Acad. Sci. USA"
+  volume: "121"
+  article: "e2318157121"
+  doi: "https://doi.org/10.1073/pnas.2318157121"
+  #  image: To be added
+
+- title: "The limit of macroscopic homogeneous ice nucleation at the nanoscale"
+  authors: "JA Hayton, MB Davies, TF Whale, A Michaelides, SJ Cox"
+  year: 2024
+  journal: "Faraday Discuss."
+  volume: "249"
+  article: "210"
+  doi: "https://doi.org/10.1039/D3FD00099K"
+  image: "/publications/IceThinFilmsTOC.gif"
+
+- title: "Remembering the Work of Phillip L. Geissler: A Coda to His Scientific Trajectory"
+  authors: "GR Bowman, SJ Cox, C Dellago, KH DuBay, JD Eaves, DA Fletcher, LB Frechette, M Grünwald, K Klymko, J Ku, AK Omar, E Rabani, DR Reichman, JR Rogers, AM Rosnik, GM Rotskoff, AR Schneider, N Schwierz, DA Sivak, S Vaikuntanathan, S Whitelam, A Widmer-Cooper"
+  year: 2023
+  journal: "Annu. Rev. Phys. Chem."
+  volume: "74"
+  article: "1"
+  doi: "https://doi.org/10.1146/annurev-physchem-101422-030127"
+  #  image: To be added
+
+- title: "Classical Quantum Friction at Water-Carbon Interfaces"
+  authors: "AT Bui, FL Thiemann, A Michaelides, SJ Cox"
+  year: 2023
+  journal: "Nano Letters"
+  volume: "23"
+  article: "580"
+  doi: "https://doi.org/10.1021/acs.nanolett.2c04187"
+  image: "/publications/QuantumFrictionTOC.webp"
+
+- title: "A theory for the stabilization of polar crystal surfaces by a liquid environment"
+  authors: "SJ Cox"
+  year: 2022
+  journal: "J. Chem. Phys."
+  volume: "157"
+  article: "094701"
+  doi: "https://doi.org/10.1063/5.0097531"
+  #  image: To be added
+
+- title: "Trade-Off between Redox Potential and the Strength of Electrochemical CO2 Capture in Quinones"
+  authors: "AT Bui, NA Hartley, AJW Thom, AC Forse"
+  year: 2022
+  journal: "J. Phys. Chem. C"
+  volume: "126"
+  article: "14163"
+  doi: "https://doi.org/10.1021/acs.jpcc.2c03752"
+  image: "/publications/TradeOffCarbonCaptureTOC.gif"
+
+- title: "Dielectric response of thin water films: a thermodynamic perspective"
+  authors: "SJ Cox, PL Geissler"
+  year: 2022
+  journal: "Chem. Sci."
+  volume: "13"
+  article: "9102"
+  doi: "https://doi.org/10.1039/D2SC01243J"
+  image: "/publications/DielectricResponseThinWaterTOC.gif"
+
+- title: "Can molecular simulations reliably compare homogeneous and heterogeneous ice nucleation?"
+  authors: "D Atherton, A Michaelides, SJ Cox"
+  year: 2022
+  journal: "J. Chem. Phys."
+  volume: "156"
+  article: "164501"
+  doi: "https://doi.org/10.1063/5.0085750"
+  #  image: To be added
+
+- title: "How do interfaces alter the dynamics of supercooled water?"
+  authors: "P Gasparotto, M Fitzner, SJ Cox, GC Sosso, A Michaelides"
+  year: 2022
+  journal: "Nanoscale"
+  volume: "14"
+  article: "4254"
+  doi: "https://doi.org/10.1039/d2nr00387b"
+  image: "/publications/InterfaceDynamicsSupercooledWaterTOC.gif"
+
+- title: "Quadrupole-mediated dielectric response and the charge-asymmetric solvation of ions in water"
+  authors: "SJ Cox, KK Mandadapu, PL Geissler"
+  year: 2021
+  journal: "J. Chem. Phys."
+  volume: "154"
+  article: "244502"
+  doi: "https://doi.org/10.1063/5.0097531"
+  #  image: To be added
+
+- title: "Microscopic Kinetics Pathway of Salt Crystallization in Graphene Nanocapillaries"
+  authors: "L Wang, J Chen, SJ Cox, L Liu, GC Sosso, N Li, P Gao, A Michaelides, E Wang, X Bai"
+  year: 2021
+  journal: "Phys. Rev. Lett."
+  volume: "126"
+  article: "136001"
+  doi: "https://doi.org/10.1103/PhysRevLett.126.136001"
+  #  image: To be added
+
+- title: "Macroscopic surface charges from microscopic simulations"
+  authors: "T Sayer, SJ Cox"
+  year: 2020
+  journal: "J. Chem. Phys."
+  volume: "153"
+  article: "164709"
+  doi: "https://doi.org/10.1063/5.0022596"
+  #  image: To be added
+
+- title: "Dielectric response with short-ranged electrostatics"
+  authors: "SJ Cox"
+  year: 2020
+  journal: "Proc. Natl. Acad. Sci. USA"
+  volume: "117"
+  article: "19746"
+  doi: "https://doi.org/10.1073/pnas.2005847117"
+  #  image: To be added
+
+- title: "Finite field formalism for bulk electrolyte solutions"
+  authors: "SJ Cox, M Sprik"
+  year: 2019
+  journal: "J. Chem. Phys."
+  volume: "151"
+  article: "064506"
+  doi: "https://doi.org/10.1063/1.5099207"
+  #  image: To be added
+
+- title: "Stabilization of AgI's polar surfaces by the aqueous environment, and its implications for ice formation"
+  authors: "T Sayer, SJ Cox"
+  year: 2019
+  journal: "Phys. Chem. Chem. Phys."
+  volume: "21"
+  article: "14546"
+  doi: "https://doi.org/10.1039/c9cp02193k"
+  image: "/publications/StablizationsPolarSurfacesTOC.gif"
+
+
