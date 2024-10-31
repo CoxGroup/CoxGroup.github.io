@@ -665,6 +665,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #000000;
+  background-color: #e7e7e7;
 }
 
 #skip-to-content {
@@ -680,12 +681,12 @@ body {
   left: 10px;
   height: auto;
   width: auto;
-  background: #e19447;
-  outline: thick solid #e19447;
+  background: #884d2f;
+  outline: thick solid #884d2f;
 }
 
 a {
-  color: #1e6bb8;
+  color: #77b2d0;
   text-decoration: none;
 }
 a:hover {
@@ -740,12 +741,12 @@ a:hover {
   color: #fff;
   text-align: center;
   background-color: #d2e6f1;
-  background-image: url("/HOMEPAGE/placeholderbanner.jpeg");
+  background-image: url("/HOMEPAGE/snow.png");
   background-size: cover; /* Makes sure the image covers the entire header */
   background-position: center; /* Centers the image */
-  height: 250px; /* Set a fixed height for the header */
-  max-width: 100%; /* Allows the width to adjust up to the maximum of its container */
-  overflow: hidden; /* Hides any overflow if the image is larger than the header */
+  /* height: 250px; /* Set a fixed height for the header */
+  /* max-width: 100%; /* Allows the width to adjust up to the maximum of its container */
+  /* overflow: hidden; /* Hides any overflow if the image is larger than the header */
 }
 @media screen and (min-width: 64em) {
   .page-header {
@@ -854,7 +855,7 @@ a:hover {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #1A4468;
+  color: #1f71a9;
 }
 .main-content p {
   margin-bottom: 1em;
@@ -1005,8 +1006,8 @@ a:hover {
 }
 
 .highlight-box {
-  background-color: rgba(95, 132, 161, 0.5647058824);
-  color: #ffffff;
+  background-color: rgba(87, 114, 144, 0.5450980392);
+  color: #e7e7e7;
   padding: 10px;
   border-radius: 30px;
   display: inline-block; /* Makes the box fit the text */
@@ -1014,7 +1015,7 @@ a:hover {
 }
 
 .pageheadline {
-  color: #1A4468;
+  color: #1f71a9;
   font-size: 60px;
   font-weight: bold;
 }
@@ -1024,6 +1025,16 @@ a:hover {
   width: 200px;
   margin-left: 0;
   margin-top: 10px;
+}
+
+.button {
+  margin-top: auto;
+  padding: 10px 15px;
+  color: #e7e7e7;
+  background-color: #1f71a9; /* Use the variable in your CSS file */
+  text-decoration: none;
+  border-radius: 5px;
+  text-align: center;
 }
 
 /*# sourceMappingURL=style.css.map */
