@@ -4,7 +4,7 @@ title: Polar crystal surfaces
 ---
 
 <div class="pageheadline">
-    <span class="underline">Polar Crystal Surfaces</span>
+    Polar Crystal Surfaces
 </div>
 <hr class="custom-hr">
 

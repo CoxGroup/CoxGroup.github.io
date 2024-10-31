@@ -1005,23 +1005,22 @@ a:hover {
 }
 
 .highlight-box {
-  background-color: rgba(95, 132, 161, 0.5647058824); /* Change this to your desired background color */
-  color: #ffffff; /* Text color */
-  padding: 10px; /* Space inside the box */
-  border-radius: 30px; /* Rounded corners */
+  background-color: rgba(95, 132, 161, 0.5647058824);
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 30px;
   display: inline-block; /* Makes the box fit the text */
-  text-align: center; /* Center align text */
+  text-align: center;
 }
 
 .pageheadline {
-  color: #1A4468; /* Add a semicolon at the end */
-  font-size: 60px; /* Add a semicolon at the end */
+  color: #1A4468;
+  font-size: 60px;
   font-weight: bold;
 }
 
 .custom-hr {
-  border: none;
-  height: 2px;
+  border: 50px solid #df2739; /* Set color and style */
   width: 200px;
   margin-left: 0;
   margin-top: 10px;
