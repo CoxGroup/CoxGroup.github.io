@@ -14,4 +14,19 @@ title: The Cox Group
 <hr class="custom-hr">
 <br>
 
-Some content should go here.
+<div class="people">
+  {% for person in site.data.people %}
+    <div class="person">
+      <a href="{{ person.url }}">
+        <img src="{{ person.image }}" alt="{{ person.name }}" class="person-image">
+      </a>
+      <div class="personal-info-box">
+        <a href="{{ person.url }}">
+          <p><strong>{{ person.name }}</strong></p>
+        </a>
+        <p><em>{{ person.position }}</em></p>
+        <p>{{ person.research }}</p>
+      </div>
+    </div>
+  {% endfor %}
+</div>

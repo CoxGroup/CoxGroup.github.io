@@ -5,6 +5,9 @@ title: Publications
 
 <div class = "pageheadline" >Publications</div>
 <hr class="custom-hr">
+
+A selection of publications is shown below. A full list of publications can be found <a href="https://scholar.google.co.uk/citations?user=XlgD62kAAAAJ&hl=en"> here</a>.
+
 <br>
 
 {% assign publications = site.data.publications %}

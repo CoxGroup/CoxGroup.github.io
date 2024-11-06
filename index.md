@@ -14,7 +14,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
 
 <!-- Research Topics -->
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
-    <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%;  background-color: #e7e7e7;">
+    <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%;  background-color: #e7e7e7;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
         <div>
             <img src="/research/polarsurface.png" alt="Image 1 Description" style="width: 100%; margin-bottom: 2ex" />
             <p style="text-align: justify;"><b>Polar crystal surfaces</b></p>
@@ -22,7 +22,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
         </div>
         <a href="/research/polarcrystalsurfaces/" class="button">Read More</a>
     </div>
-    <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7;">
+    <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
         <div>
             <img src="/research/nanoscaletop.png" alt="Image 2 Description" style="width: 100%;margin-bottom: 2ex" />
             <p style="text-align: justify;"><b>Nanoscale flow</b></p>
@@ -30,7 +30,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
         </div>
         <a href="/research/nanoscaleflow/" class="button">Read More</a>
     </div>
-    <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7;">
+    <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
         <div>
             <img src="/research/solvationtop.png" alt="Image 3 Description" style="width: 100%;margin-bottom: 2ex" />
             <p style="text-align: justify;"><b>Solvation & dielectric response</b></p>
@@ -38,7 +38,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
         </div>
         <a href="/research/solvation/" class="button">Read More</a>
     </div>
-    <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7;">
+    <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
         <div>
             <img src="/research/electrochemicaltop.png" alt="Image 4 Description" style="width: 100%;margin-bottom: 2ex" />
             <p style="text-align: justify;"><b>Electrochemical interfaces</b></p>

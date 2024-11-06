@@ -1,0 +1,47 @@
+- image: /group/portraits/steve.jpg
+  name: "Dr Stephen Cox"
+  position: "Principal Investigator"
+  research: "Research interest"
+  url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
+
+- image: /group/portraits/Alex.jpg
+  name: "Dr Alexander Rizzolo Epstein"
+  position: "Postdoctoral Researcher"
+  research: "Research interest"
+  url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
+
+- image: /group/portraits/anna.jpg
+  name: "Anna Bui"
+  position: "PhD student"
+  research: "Research interest"
+  url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
+
+- image: /group/portraits/john.jpg
+  name: "John Hayton"
+  position: "PhD student"
+  research: "Research interest"
+  url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
+
+- image: /group/portraits/connie.jpg
+  name: "Connie Fairchild"
+  position: "PhD student"
+  research: "Research interest"
+  url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
+
+- image: /group/portraits/fiona.jpeg
+  name: "Fiona Baumhauer"
+  position: "PhD student"
+  research: "Research interest"
+  url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
+
+- image: /group/portraits/dom.png
+  name: "PhD student"
+  position: "PhD student"
+  research: "Research interest"
+  url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
+
+- image: /group/portraits/dom.png
+  name: "Katie Zhou"
+  position: "Master's student"
+  research: "Research interest"
+  url: "https://www.durham.ac.uk/staff/stephen-j-cox/"

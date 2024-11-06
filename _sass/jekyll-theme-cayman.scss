@@ -414,3 +414,27 @@ a {
   border-radius: 5px;
   text-align: center;
 }
+
+.people {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 70px;
+}
+
+.person {
+  display: flex;
+  align-items: center;
+}
+
+.person-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 3px solid #b8beca; 
+  margin-right: 25px;
+}
+
+.personal-info-box p {
+  margin: 0;
+  line-height: 1.5;
+}
