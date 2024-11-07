@@ -35,7 +35,7 @@
   volume: "121"
   article: "e2318157121"
   doi: "https://doi.org/10.1073/pnas.2318157121"
-  #  image: To be added
+  image: "/publications/ImpedanceOfNanocapacitors.png"
 
 - title: "The limit of macroscopic homogeneous ice nucleation at the nanoscale"
   authors: "JA Hayton, MB Davies, TF Whale, A Michaelides, SJ Cox"

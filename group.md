@@ -11,7 +11,7 @@ title: The Cox Group
 <br>
 
 <div class = "pageheadline" >Group Members</div>
-<hr class="custom-hr">
+<hr class="custom-hr"> 
 <br>
 
 <div class="people">
