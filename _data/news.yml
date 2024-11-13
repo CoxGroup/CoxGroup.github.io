@@ -1,0 +1,19 @@
+- title: "New Paper Published"
+  link: "/news/placeholder/"
+  image: "/group/portraits/group.jpg"
+  preview: "Our latest paper has been published."
+
+- title: "More news!"
+  link: "/news/placeholder/"
+  image: "/research/nanoscaletop.png"
+  preview: "Here is some more news."
+
+- title: "Even more news"
+  link: "/news/placeholder/"
+  image: "/research/TOC-fun.png"
+  preview: "Yet again more news."
+
+- title: "News news news"
+  link: "/news/placeholder/"
+  image: "/publications/logo-electrochemical.png"
+  preview: "News news news news news."

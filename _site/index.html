@@ -216,6 +216,96 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
     <strong>Interested in <a href="/join/">joining us?</a></strong> We are always looking for talented and enthusiastic individuals to join the team.
 </p>
 
+<!-- News Section -->
+<div style="background-color: #f0f0f0; padding: 40px 0; width: 100%; margin-left: 0; margin-right: 0;">
+    <h2 style="text-align: center; margin-bottom: 20px;">Latest News</h2>
+    
+    <!-- Carousel Wrapper -->
+    <div class="carousel-container" style="position: relative; overflow: hidden;">
+        <!-- Carousel Content -->
+        <div id="news-carousel" style="display: flex; transition: transform 0.5s ease;">
+
+            
+            <!-- News Item -->
+            <div style="border: 1px solid lightgrey; padding: 20px; background-color: #ffffff; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); display: flex; justify-content: space-between; align-items: center; flex: 0 0 50%; box-sizing: border-box; margin-bottom: 20px;">
+                <div style="flex: 1;">
+                    <h3 style="color: #1f71a9;">
+                        <a href="/news/placeholder/" style="color: #1f71a9; text-decoration: none;">New Paper Published</a>
+                    </h3>
+                    <p>Our latest paper has been published.</p>
+                </div>
+                <img src="/group/portraits/group.jpg" style="width: 300px; height: auto; border-radius: 8px; margin-left: 20px;" />
+            </div>
+            
+            <!-- News Item -->
+            <div style="border: 1px solid lightgrey; padding: 20px; background-color: #ffffff; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); display: flex; justify-content: space-between; align-items: center; flex: 0 0 50%; box-sizing: border-box; margin-bottom: 20px;">
+                <div style="flex: 1;">
+                    <h3 style="color: #1f71a9;">
+                        <a href="/news/placeholder/" style="color: #1f71a9; text-decoration: none;">More news!</a>
+                    </h3>
+                    <p>Here is some more news.</p>
+                </div>
+                <img src="/research/nanoscaletop.png" style="width: 300px; height: auto; border-radius: 8px; margin-left: 20px;" />
+            </div>
+            
+            <!-- News Item -->
+            <div style="border: 1px solid lightgrey; padding: 20px; background-color: #ffffff; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); display: flex; justify-content: space-between; align-items: center; flex: 0 0 50%; box-sizing: border-box; margin-bottom: 20px;">
+                <div style="flex: 1;">
+                    <h3 style="color: #1f71a9;">
+                        <a href="/news/placeholder/" style="color: #1f71a9; text-decoration: none;">Even more news</a>
+                    </h3>
+                    <p>Yet again more news.</p>
+                </div>
+                <img src="/research/TOC-fun.png" style="width: 300px; height: auto; border-radius: 8px; margin-left: 20px;" />
+            </div>
+            
+            <!-- News Item -->
+            <div style="border: 1px solid lightgrey; padding: 20px; background-color: #ffffff; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); display: flex; justify-content: space-between; align-items: center; flex: 0 0 50%; box-sizing: border-box; margin-bottom: 20px;">
+                <div style="flex: 1;">
+                    <h3 style="color: #1f71a9;">
+                        <a href="/news/placeholder/" style="color: #1f71a9; text-decoration: none;">News news news</a>
+                    </h3>
+                    <p>News news news news news.</p>
+                </div>
+                <img src="/publications/logo-electrochemical.png" style="width: 300px; height: auto; border-radius: 8px; margin-left: 20px;" />
+            </div>
+            
+            
+        </div>
+    </div>
+
+    <!-- Carousel Arrows (Positioned Below) -->
+    <div style="text-align: center; margin-top: 20px;">
+        <button id="prev" style="background: rgba(0, 0, 0, 0.5); color: white; border: none; padding: 10px 20px; cursor: pointer; margin-right: 10px;">&lt;</button>
+        <button id="next" style="background: rgba(0, 0, 0, 0.5); color: white; border: none; padding: 10px 20px; cursor: pointer;">&gt;</button>
+    </div>
+</div>
+
+<script>
+    const prevButton = document.getElementById("prev");
+    const nextButton = document.getElementById("next");
+    const carousel = document.getElementById("news-carousel");
+    let currentIndex = 0;
+    const totalItems = carousel.children.length;
+    const itemsToShow = 2; // Show two items at a time
+
+    prevButton.addEventListener("click", () => {
+        currentIndex = (currentIndex === 0) ? totalItems - itemsToShow : currentIndex - 1;
+        updateCarousel();
+    });
+
+    nextButton.addEventListener("click", () => {
+        currentIndex = (currentIndex === totalItems - itemsToShow) ? 0 : currentIndex + 1;
+        updateCarousel();
+    });
+
+    function updateCarousel() {
+        const offset = -currentIndex * 50; // Adjust this to 50% to show 2 items at once
+        carousel.style.transform = `translateX(${offset}%)`;
+    }
+</script>
+
+
 
       <footer class="site-footer">
         
