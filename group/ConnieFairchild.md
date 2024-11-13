@@ -9,7 +9,8 @@ title: Connie Fairchild
     <img src="/group/portraits/connie.jpg" alt="Connie Fairchild" style="width: 60%; height: auto; border-radius: 50%;" />
     <div style="margin-top: 20px;">
         <h3>Connie Fairchild</h3>
-        <p>PhD student</p>
+        <p><b>PhD student</b></p>
+        <p>cf497@cam.ac.uk</p>
     </div>
 </div>
 

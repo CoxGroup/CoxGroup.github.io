@@ -9,7 +9,8 @@ title: Fiona Baumhauer
     <img src="/group/portraits/fiona.jpg" alt="Fiona Baumhauer" style="width: 60%; height: auto; border-radius: 50%;" />
     <div style="margin-top: 20px;">
         <h3>Fiona Baumhauer</h3>
-        <p>PhD student</p>
+        <p><b>PhD student</b></p>
+        <p>fb590@cam.ac.uk</p>
     </div>
 </div>
 

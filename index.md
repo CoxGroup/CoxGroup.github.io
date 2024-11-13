@@ -33,7 +33,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
     </div>
     <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
         <div>
-            <img src="/research/energy-storage-TOC.jpg" alt="Image 3 Description" style="width: 100%; height: auto; max-height: 300px; max-width:500px; margin: 0 auto 2ex; display: block;" />
+            <img src="/research/energy-storage_3.png" alt="Image 3 Description" style="width: 100%; height: auto; max-height: 300px; max-width:500px; margin: 0 auto 2ex; display: block;" />
             <p style="text-align: justify;"><b>Response and relaxation in energy storage systems</b></p>
             <p style="text-align: justify;">In order to maximise the storage capabilities of electrochemical devices a thorough theoretical understanding of the static and dynamical molecular-level behaviours that govern system efficiency is required. Understanding the molecular origins of experimental observables and how they are impacted by changes in electrode/electrolyte composition will allow for a more theory-driven approach to the design of electrochemical and nanofluidic devices.</p>
         </div>

@@ -48,7 +48,7 @@ Through these efforts, we aim to address longstanding challenges in multiscale m
 <h1 id="energy-storage">Response and relaxation in energy storage systems</h1>
 
 <div style="text-align: center;">
-<img src="/research/energy-storage_2.png" style="width: 60%; height: auto;" />
+<img src="/research/energy-storage_3.png" style="width: 50%; height: auto;" />
 </div>
 
 <div style="height: 30px;"></div>

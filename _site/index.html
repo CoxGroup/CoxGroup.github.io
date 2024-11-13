@@ -52,36 +52,40 @@
         }
         nav {
             background-color: #77b2d0;
-            padding: 10px; /* Adjust padding for more space */
+            padding: 10px; 
             display: flex;
-            align-items: center; /* Center align vertically */
+            align-items: center; 
+            position: sticky; 
+            top: 0; 
+            z-index: 1000; 
+            width: 100%;
         }
         .nav-header {
-            display: flex; /* Flex container for image and title */
-            flex-direction: column; /* Stack title and buttons vertically */
-            margin-left: 10px; /* Space between image and text */
+            display: flex; 
+            flex-direction: column; 
+            margin-left: 10px; 
         }
         nav img {
-            height: 70px; /* Adjust height as needed */
+            height: 70px; 
             margin-left: 0.4em;
             margin-right: 1em;
         }
         nav h2 {
-            color: #e7e7e7; /* Text color */
-            margin: 0; /* Remove default margin */
-            font-size: 1.5em; /* Adjust font size */
+            color: #e7e7e7; 
+            margin: 0; 
+            font-size: 1.5em; 
         }
         .nav-buttons {
-            display: flex; /* Flex container for buttons */
-            flex-wrap: wrap; /* Allow buttons to wrap if there's not enough space */
-            justify-content: flex-start; /* Align buttons to the start (left) */
+            display: flex; 
+            flex-wrap: wrap; 
+            justify-content: flex-start; 
             padding-top: 0px;
         }
         nav a {
             color: #e7e7e7;
             text-decoration: none;
-            padding: 5px 10px; /* Added horizontal padding */
-            margin: 0 5px; /* Horizontal margin between links */
+            padding: 5px 10px; 
+            margin: 0 5px; 
             line-height: 1;
             position: relative;
         }
@@ -135,7 +139,7 @@
         }
     </style>
 
-    <!-- Flex container for the image and title -->
+    
     <img src="/homepage/durham-university-logo.svg" alt="Logo">
     <div class="nav-header">
         <div><span class = "thecoxgroup"> <b>THE COX GROUP</b> </span> <span class = department> DEPARTMENT OF CHEMISTRY</span></div>
@@ -199,7 +203,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
     </div>
     <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
         <div>
-            <img src="/research/energy-storage-TOC.jpg" alt="Image 3 Description" style="width: 100%; height: auto; max-height: 300px; max-width:500px; margin: 0 auto 2ex; display: block;" />
+            <img src="/research/energy-storage_3.png" alt="Image 3 Description" style="width: 100%; height: auto; max-height: 300px; max-width:500px; margin: 0 auto 2ex; display: block;" />
             <p style="text-align: justify;"><b>Response and relaxation in energy storage systems</b></p>
             <p style="text-align: justify;">In order to maximise the storage capabilities of electrochemical devices a thorough theoretical understanding of the static and dynamical molecular-level behaviours that govern system efficiency is required. Understanding the molecular origins of experimental observables and how they are impacted by changes in electrode/electrolyte composition will allow for a more theory-driven approach to the design of electrochemical and nanofluidic devices.</p>
         </div>

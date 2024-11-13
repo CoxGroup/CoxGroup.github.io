@@ -53,36 +53,40 @@
         }
         nav {
             background-color: #77b2d0;
-            padding: 10px; /* Adjust padding for more space */
+            padding: 10px; 
             display: flex;
-            align-items: center; /* Center align vertically */
+            align-items: center; 
+            position: sticky; 
+            top: 0; 
+            z-index: 1000; 
+            width: 100%;
         }
         .nav-header {
-            display: flex; /* Flex container for image and title */
-            flex-direction: column; /* Stack title and buttons vertically */
-            margin-left: 10px; /* Space between image and text */
+            display: flex; 
+            flex-direction: column; 
+            margin-left: 10px; 
         }
         nav img {
-            height: 70px; /* Adjust height as needed */
+            height: 70px; 
             margin-left: 0.4em;
             margin-right: 1em;
         }
         nav h2 {
-            color: #e7e7e7; /* Text color */
-            margin: 0; /* Remove default margin */
-            font-size: 1.5em; /* Adjust font size */
+            color: #e7e7e7; 
+            margin: 0; 
+            font-size: 1.5em; 
         }
         .nav-buttons {
-            display: flex; /* Flex container for buttons */
-            flex-wrap: wrap; /* Allow buttons to wrap if there's not enough space */
-            justify-content: flex-start; /* Align buttons to the start (left) */
+            display: flex; 
+            flex-wrap: wrap; 
+            justify-content: flex-start; 
             padding-top: 0px;
         }
         nav a {
             color: #e7e7e7;
             text-decoration: none;
-            padding: 5px 10px; /* Added horizontal padding */
-            margin: 0 5px; /* Horizontal margin between links */
+            padding: 5px 10px; 
+            margin: 0 5px; 
             line-height: 1;
             position: relative;
         }
@@ -136,7 +140,7 @@
         }
     </style>
 
-    <!-- Flex container for the image and title -->
+    
     <img src="/homepage/durham-university-logo.svg" alt="Logo">
     <div class="nav-header">
         <div><span class = "thecoxgroup"> <b>THE COX GROUP</b> </span> <span class = department> DEPARTMENT OF CHEMISTRY</span></div>
@@ -174,7 +178,8 @@
     <img src="/group/portraits/anna.jpg" alt="Anna Bui" style="width: 60%; height: auto; border-radius: 50%;" />
     <div style="margin-top: 20px;">
         <h3>Anna Bui</h3>
-        <p>PhD student</p>
+        <p><b>PhD student</b></p>
+        <p>truc.bui@durham.ac.uk</p>
     </div>
 </div>
 

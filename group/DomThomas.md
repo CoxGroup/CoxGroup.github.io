@@ -9,7 +9,8 @@ title: Dom Thomas
     <img src="/group/portraits/dom.jpg" alt="Dom Thomas" style="width: 60%; height: auto; border-radius: 50%;" />
     <div style="margin-top: 20px;">
         <h3>Dom Thomas</h3>
-        <p>PhD student</p>
+        <p><b>PhD student</b></p>
+        <p>dominic.p.thomas@durham.ac.uk</p>
     </div>
 </div>
 

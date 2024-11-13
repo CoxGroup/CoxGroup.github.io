@@ -9,7 +9,8 @@ title: John Hayton
     <img src="/group/portraits/john.jpg" alt="John Hayton" style="width: 60%; height: auto; border-radius: 50%;" />
     <div style="margin-top: 20px;">
         <h3>John Hayton</h3>
-        <p>PhD student</p>
+        <p><b>PhD student</b></p>
+        <p>jah260@cam.ac.uk</p>
     </div>
 </div>
 

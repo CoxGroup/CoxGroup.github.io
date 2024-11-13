@@ -9,7 +9,8 @@ title: Katie Zhou
     <img src="/group/portraits/katie.jpeg" alt="Katie Zhou" style="width: 60%; height: auto; border-radius: 50%;" />
     <div style="margin-top: 20px;">
         <h3>Katie Zhou</h3>
-        <p>Master's student</p>
+        <p><b>Master's student</b></p>
+        <p>katie.zhou@durham.ac.uk</p>
     </div>
 </div>
 

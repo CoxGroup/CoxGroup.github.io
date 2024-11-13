@@ -8,8 +8,9 @@ title: Alexander Epstein
 <div style="text-align: center;">
     <img src="/group/portraits/Alex.jpg" alt="Alexander Epstein" style="width: 60%; height: auto; border-radius: 50%;" />
     <div style="margin-top: 20px;">
-        <p><b>Dr Alexander Rizzolo Epstein</b></p>
-        <p>Postdoctoral Researcher</p>
+        <h3>Dr Alexander Rizzolo Epstein</h3>
+        <p><b>Postdoctoral Researcher</b></p>
+        <p>ae520@cam.ac.uk</p>
     </div>
 </div>
 

@@ -9,7 +9,8 @@ title: Anna Bui
     <img src="/group/portraits/anna.jpg" alt="Anna Bui" style="width: 60%; height: auto; border-radius: 50%;" />
     <div style="margin-top: 20px;">
         <h3>Anna Bui</h3>
-        <p>PhD student</p>
+        <p><b>PhD student</b></p>
+        <p>truc.bui@durham.ac.uk</p>
     </div>
 </div>
 
