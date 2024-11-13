@@ -12,39 +12,32 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
 
 <br><br>
 
+
 <!-- Research Topics -->
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
-    <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%;  background-color: #e7e7e7;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+    <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
         <div>
-            <img src="/research/polarsurface.png" alt="Image 1 Description" style="width: 100%; margin-bottom: 2ex" />
-            <p style="text-align: justify;"><b>Polar crystal surfaces</b></p>
-            <p style="text-align: justify;">When you think of charged surfaces, you might imagine acid-base chemistry where protons are transferred between the functional groups at the surface and the solution. Or you might think of an electrode that’s held at constant electropotential. You might even consider a combination of the two. Maybe less obvious is that surface charge can originate from the structure of the crystal itself.</p>
+            <img src="/research/crystalsurface.png" alt="Image 1 Description" style="width: 100%; height: auto; max-height: 300px; max-width:500px; margin: 0 auto 2ex; display: block;" />
+            <p style="text-align: justify;"><b>Crystal-liquid interfaces</b></p>
+            <p style="text-align: justify;"></p>
         </div>
-        <a href="/research/polarcrystalsurfaces/" class="button">Read More</a>
-    </div>
-    <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-        <div>
-            <img src="/research/nanoscaletop.png" alt="Image 2 Description" style="width: 100%;margin-bottom: 2ex" />
-            <p style="text-align: justify;"><b>Nanoscale flow</b></p>
-            <p style="text-align: justify;">For over a decade, experiments have shown that water exhibits several remarkable properties at the nanoscale, most prominently its friction in carbon nanostructures. Not only are these observations scientifically fascinating but they also advance the field of nanofluidics by offering sustainable solutions to problems in water desalination and energy harvesting.</p>
-        </div>
-        <a href="/research/nanoscaleflow/" class="button">Read More</a>
-    </div>
-    <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7;box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-        <div>
-            <img src="/research/solvationtop.png" alt="Image 3 Description" style="width: 100%;margin-bottom: 2ex" />
-            <p style="text-align: justify;"><b>Solvation & dielectric response</b></p>
-            <p style="text-align: justify;">You might be hard pushed to argue there is a more important solvent than water; the physical principles that underlie aqueous ion solvation are important across a broad range of scientific disciplines, such as biochemistry, desalination, geochemistry and crystallization. We currently lack a comprehensive theoretical understanding of aqueous solvation. This has limited our ability to model the solvation in water in an efficient coarse-grained, yet physically faithful, manner.</p>
-        </div>
-        <a href="/research/solvation/" class="button">Read More</a>
+        <a href="/research/#crystal-liquid-interfaces" class="button">Read More</a>
     </div>
     <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
         <div>
-            <img src="/research/electrochemicaltop.png" alt="Image 4 Description" style="width: 100%;margin-bottom: 2ex" />
-            <p style="text-align: justify;"><b>Electrochemical interfaces</b></p>
-            <p style="text-align: justify;">As the world moves towards the decarbonisation of its electrical supply there is a significant demand for high-performance electrochemical energy storage. In order to maximise the storage capabilities of these devices a thorough theoretical understanding of the static and dynamical molecular-level behaviours that govern system efficiency is required.</p>
+            <img src="/research/cdft_TOC.png" alt="Image 2 Description" style="width: 100%; height: auto; max-height: 300px; max-width:500px; margin: 0 auto 2ex; display: block;" />
+            <p style="text-align: justify;"><b>Genuine multiscale modelling</b></p>
+            <p style="text-align: justify;">Understanding how microscopic physical chemistry influences mesoscopic phenomena presents a significant challenge due to the disparity in length and time scales. To bridge this gap, we develop and apply advanced statistical mechanics techniques, particularly classical density functional theory, to address these problems effectively.</p>
         </div>
-        <a href="/research/electrochemicalinterfaces/" class="button">Read More</a>
+        <a href="/research/#multiscale-modelling" class="button">Read More</a>
+    </div>
+    <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+        <div>
+            <img src="/research/energy-storage-TOC.jpg" alt="Image 3 Description" style="width: 100%; height: auto; max-height: 300px; max-width:500px; margin: 0 auto 2ex; display: block;" />
+            <p style="text-align: justify;"><b>Response and relaxation in energy storage systems</b></p>
+            <p style="text-align: justify;">In order to maximise the storage capabilities of electrochemical devices a thorough theoretical understanding of the static and dynamical molecular-level behaviours that govern system efficiency is required. Understanding the molecular origins of experimental observables and how they are impacted by changes in electrode/electrolyte composition will allow for a more theory-driven approach to the design of electrochemical and nanofluidic devices.</p>
+        </div>
+        <a href="/research/#energy-storage" class="button">Read More</a>
     </div>
 </div>
 
