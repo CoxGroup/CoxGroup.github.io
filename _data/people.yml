@@ -1,47 +1,57 @@
 - image: /group/portraits/steve.jpg
   name: "Dr Stephen Cox"
   position: "Principal Investigator"
-  research: "Research interest"
   url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
 
 - image: /group/portraits/Alex.jpg
   name: "Dr Alexander Rizzolo Epstein"
   position: "Postdoctoral Researcher"
-  research: "Research interest"
-  url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
+  research: 
+  - "Genuine multiscale modelling"
+  - "Crystal-liquid interfaces"
+  url: "/group/AlexanderEpstein/"
 
 - image: /group/portraits/anna.jpg
   name: "Anna Bui"
   position: "PhD student"
-  research: "Research interest"
-  url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
+  research:
+  - "Genuine multiscale modelling"
+  - "Reponse and relaxation in energy storage systems"
+  url: "/group/AnnaBui/"
 
 - image: /group/portraits/john.jpg
   name: "John Hayton"
   position: "PhD student"
-  research: "Research interest"
-  url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
+  research:
+  - "Crystal-liquid interfaces"
+  url: "/group/JohnHayton/"
 
 - image: /group/portraits/connie.jpg
   name: "Connie Fairchild"
   position: "PhD student"
-  research: "Research interest"
-  url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
+  research:
+  - "Reponse and relaxation in energy storage systems"
+  url: "/group/ConnieFairchild/"
 
 - image: /group/portraits/fiona.jpg
   name: "Fiona Baumhauer"
   position: "PhD student"
-  research: "Research interest"
-  url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
+  research:
+    - "Crystal-liquid interfaces"
+    - "Genuine multiscale modelling"
+  url: "/group/FionaBaumhauer/"
 
 - image: /group/portraits/dom.jpg
   name: "Dom Thomas"
   position: "PhD student"
-  research: "Research interest"
-  url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
+  research:
+    - "Genuine multiscale modelling"
+    - "Reponse and relaxation in energy storage systems"
+  url: "/group/DomThomas/"
 
-- image: /group/portraits/dom.jpg
+- image: /group/portraits/katie.jpeg
   name: "Katie Zhou"
   position: "Master's student"
-  research: "Research interest"
-  url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
+  research:
+  - "Genuine multiscale modelling"
+  url: "/group/KatieZhou/"

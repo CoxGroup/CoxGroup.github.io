@@ -2,7 +2,7 @@
   authors: "AT Bui, SJ Cox"
   year: 2024
   link: "https://arxiv.org/abs/2410.02556v1"
-  #  image: To be added
+  image: "/publications/cdftforionicfluids.png"
 
 - title: "Crumbling Crystals: On the Dissolution Mechanism of NaCl in Water"
   authors: "N O'Neill, C Schran, SJ Cox, A Michaelides"
@@ -17,7 +17,7 @@
   authors: "AT Bui, SJ Cox"
   year: 2024
   link: "https://arxiv.org/abs/2409.07134v1"
-  # image: To be added
+  image: "/publications/flowisslow.png"
 
 - title: "A classical density functional theory for solvation across length scales"
   authors: "AT Bui, SJ Cox"
@@ -26,7 +26,7 @@
   volume: "161"
   article: "104103"
   doi: "https://doi.org/10.1063/5.0223750"
-  #  image: To be added
+  image: "/publications/solvationacrosslengthscales.png"
 
 - title: "Impedance of nanocapacitors from molecular simulations to understand the dynamics of confined electrolytes"
   authors: "G Pireddu, C Fairchild, S Niblett, S Cox, B Rotenberg"
