@@ -10,7 +10,7 @@ title: Anna Bui
     <div style="margin-top: 20px;">
         <h3>Anna Bui</h3>
         <p><b>PhD student</b></p>
-        <p>truc.bui@durham.ac.uk</p>
+        <p>btb32@cam.ac.uk</p>
     </div>
 </div>
 
