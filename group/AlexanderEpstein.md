@@ -6,7 +6,7 @@ title: Alexander Epstein
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0px; align-items: center;">
 
 <div style="text-align: center;">
-    <img src="/group/portraits/Alex.jpg" alt="Alexander Epstein" style="width: 60%; height: auto; border-radius: 50%;" />
+    <img src="/group/portraits/Alex.jpg" alt="Alexander Epstein" style="width: 60%; height: auto; border-radius: 50%;border: 3px solid #b8beca;" />
     <div style="margin-top: 20px;">
         <h3>Dr Alexander Rizzolo Epstein</h3>
         <p><b>Postdoctoral Researcher</b></p>

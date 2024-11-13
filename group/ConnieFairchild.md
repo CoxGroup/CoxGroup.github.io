@@ -6,7 +6,7 @@ title: Connie Fairchild
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0px; align-items: center;">
 
 <div style="text-align: center;">
-    <img src="/group/portraits/connie.jpg" alt="Connie Fairchild" style="width: 60%; height: auto; border-radius: 50%;" />
+    <img src="/group/portraits/connie.jpg" alt="Connie Fairchild" style="width: 60%; height: auto; border-radius: 50%;border: 3px solid #b8beca; " />
     <div style="margin-top: 20px;">
         <h3>Connie Fairchild</h3>
         <p><b>PhD student</b></p>

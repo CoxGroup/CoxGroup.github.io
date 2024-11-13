@@ -5,7 +5,7 @@ title: The Cox Group
 
 
 <div style="text-align: center;">
-    <img src="/group/portraits/group.jpg" alt="Alt text" style="width: 100%;" />
+    <img src="/group/portraits/group.jpg" alt="The Cox Group" style="width: 100%;border-radius: 10px;" />
 </div>
 
 <br>

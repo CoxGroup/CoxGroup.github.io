@@ -174,14 +174,15 @@
     </header>    
 
     <main id="content" class="main-content" role="main">
-      <!-- Text -->
+      <div style="height: 20px;"></div>
+
 <p>
 Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoretical chemistry</b> group in the Department of Chemistry, Durham University.
 </p>
 
 <p>In the Cox Group, we use theory and molecular simulations to understand the properties of liquids and liquid-solid interfaces. Our focus is on understanding emergent phenomena: How do properties at the microscopic scale impact phenomena on the meso- and macro scales? Individual research topics fall broadly within the following themes:</p>
 
-<p><br /><br /></p>
+<div style="height: 40px;"></div>
 
 <!-- Research Topics -->
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
@@ -211,14 +212,16 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
     </div>
 </div>
 
-<p><br /></p>
+<div style="height: 40px;"></div>
 <p>
     <strong>Interested in <a href="/join/">joining us?</a></strong> We are always looking for talented and enthusiastic individuals to join the team.
 </p>
 
+<div style="height: 40px;"></div>
+
 <!-- News Section -->
 <div style="background-color: #f0f0f0; padding: 40px 0; width: 100%; margin-left: 0; margin-right: 0;">
-    <h2 style="text-align: center; margin-bottom: 20px;">Latest News</h2>
+    <h2 style="text-align: center; margin-bottom: 20px;">News</h2>
     
     <!-- Carousel Wrapper -->
     <div class="carousel-container" style="position: relative; overflow: hidden;">
@@ -274,7 +277,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
         </div>
     </div>
 
-    <!-- Carousel Arrows (Positioned Below) -->
+    <!-- Carousel Arrows -->
     <div style="text-align: center; margin-top: 20px;">
         <button id="prev" style="background: rgba(0, 0, 0, 0.5); color: white; border: none; padding: 10px 20px; cursor: pointer; margin-right: 10px;">&lt;</button>
         <button id="next" style="background: rgba(0, 0, 0, 0.5); color: white; border: none; padding: 10px 20px; cursor: pointer;">&gt;</button>
@@ -287,7 +290,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
     const carousel = document.getElementById("news-carousel");
     let currentIndex = 0;
     const totalItems = carousel.children.length;
-    const itemsToShow = 2; // Show two items at a time
+    const itemsToShow = 2;
 
     prevButton.addEventListener("click", () => {
         currentIndex = (currentIndex === 0) ? totalItems - itemsToShow : currentIndex - 1;
@@ -300,7 +303,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
     });
 
     function updateCarousel() {
-        const offset = -currentIndex * 50; // Adjust this to 50% to show 2 items at once
+        const offset = -currentIndex * 50;
         carousel.style.transform = `translateX(${offset}%)`;
     }
 </script>
