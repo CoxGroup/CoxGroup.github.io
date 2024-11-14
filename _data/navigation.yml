@@ -4,6 +4,14 @@
   link: "/group/"
 - name: "RESEARCH"
   link: "/research/"
+  submenu:
+    - name: "Crystal-liquid interfaces"
+      link: /research/crystal-liquid-interfaces/"
+    - name: "Genuine multiscale modelling"
+      link: "/research/genuine-multiscale-modelling/"
+    - name: "Response and relaxation in energy storage systems"
+      link: "/research/energy-storage-systems/"
+
 - name: "PUBLICATIONS"
   link: "/publications/"
 - name: "JOIN US!"
