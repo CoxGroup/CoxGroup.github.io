@@ -1,10 +1,10 @@
 - image: /group/portraits/steve.jpg
-  name: "Dr Stephen Cox"
+  name: "Stephen Cox"
   position: "Principal Investigator"
   url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
 
 - image: /group/portraits/Alex.jpg
-  name: "Dr Alexander Rizzolo Epstein"
+  name: "Alex R. Epstein"
   position: "Postdoctoral Researcher"
   research: 
   - "Genuine multiscale modelling"
