@@ -20,7 +20,9 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
         <div>
             <img src="/research/crystalsurface.png" alt="Image 1 Description" style="width: 100%; height: auto; max-height: 300px; max-width:500px; margin: 0 auto 2ex; display: block;" />
             <p style="text-align: justify;"><b>Crystal-liquid interfaces</b></p>
-            <p style="text-align: justify;">Crystal-liquid interfaces are complex systems of great fundamental and techniclogical importance. We use molecular simulations to undestand how the solution impacts crystal surface structure and dynamics. </p>
+            <p style="text-align: left;">Crystal-liquid interfaces are complex systems of great fundamental and techniclogical importance. 
+                
+                We use molecular simulations to undestand how the solution impacts crystal surface structure and dynamics. </p>
         </div>
         <a href="/research/#crystal-liquid-interfaces" class="button">Read More</a>
     </div>
