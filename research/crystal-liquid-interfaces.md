@@ -16,3 +16,11 @@ Understanding the stabilisation of different crystal interfaces, and the dynamic
 <div style="text-align: center;">
 <img src="/research/crystalsurface.png" style="width: 40%; height: auto;border-radius:10px;" />
 </div>
+
+<h2>Relevant Publications</h2>
+
+<ol>
+  <li><em>Stabilization of AgI's polar surfaces by the aqueous environment, and its implications for ice formation.</em> T Sayer and SJ Cox, <em> J. Chem. Phys. 21,</em> 14546, 2019. </li>
+  <li> <em>A theory for the stabilization of polar crystal surfaces by a liquid environment.</em> SJ Cox, <em>J. Chem. Phys. 157 </em>, 094701, 2022.
+  </li>
+</ol>

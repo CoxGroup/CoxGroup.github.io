@@ -741,10 +741,11 @@ a:hover {
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: #77D0D1;
+  background-color: #006992;
   /* background-image: url("/HOMEPAGE/snow.png"); */
   background-size: cover;
   background-position: center;
+  border-bottom: 2px solid #000000;
 }
 @media screen and (min-width: 64em) {
   .page-header {

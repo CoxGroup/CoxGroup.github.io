@@ -11,9 +11,9 @@ Classical density functional theory (cDFT) offers a powerful statistical mechani
 
 Areas of current interest include:
 
-• [Solvation phenomena](https://pubs.aip.org/aip/jcp/article/161/10/104103/3311753/A-classical-density-functional-theory-for)
+• Solvation phenomena<sup>1</sup>
 
-• [Electrochemical processes](https://arxiv.org/abs/2410.02556v1)
+• Electrochemical processes<sup>2</sup>
 
 • Phase behaviour of mixtures
 
@@ -23,3 +23,13 @@ Through these efforts, we aim to address longstanding challenges in multiscale m
 <div style="text-align: center;">
 <img src="/research/cdft_TOC.png" style="width: 40%; height: auto;border-radius:10px;" />
 </div>
+
+
+
+<h2>Relevant Publications</h2>
+
+<ol>
+  <li><em>A classical density functional theory for solvation across length scales.</em> AT Bui, SJ Cox <em> J. Chem. Phys. 161,</em>  104103, 2024. </li>
+  <li> <em>Learning classical density functionals for ionic fluids.</em> AT Bui, SJ Cox, in press, 2024.
+  </li>
+</ol>

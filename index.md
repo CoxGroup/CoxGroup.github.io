@@ -18,7 +18,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
     <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
         <div>
-            <img src="/research/crystalsurface.png" alt="Image 1 Description" style="width: 100%; height: auto; max-height: 300px; max-width:500px; margin: 0 auto 2ex; display: block;" />
+            <img src="/research/crystal-surfaces-aspect.png" alt="Image 1 Description" style="width: 100%; height: auto; max-height: 300px; max-width:500px; margin: 0 auto 2ex; display: block;" />
             <p style="text-align: justify;"><b>Crystal-liquid interfaces</b></p>
             <p style="text-align: left;">Crystal-liquid interfaces are complex systems of great fundamental and technological importance.<br><br> 
                 
@@ -38,7 +38,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
     </div>
     <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
         <div>
-            <img src="/research/energy-storage_3.png" alt="Image 3 Description" style="width: 100%; height: auto; max-height: 300px; max-width:500px; margin: 0 auto 2ex; display: block;" />
+            <img src="/research/energy-storage-whitespace.png" alt="Image 3 Description" style="width: 100%; height: auto; max-height: 300px; max-width:500px; margin: 0 auto 2ex; display: block;" />
             <p style="text-align: justify;"><b>Response and relaxation in energy storage systems</b></p>
             <p style="text-align: justify;">Understanding the fundamental chemical physics of electrochemical devices is essential to the design of more efficient energy storage systems.<br><br>
 
