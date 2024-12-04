@@ -57,64 +57,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
 
 <div style="height: 40px;"></div>
 
-<!-- News Section -->
-<div style="background-color: #f0f0f0; padding: 40px 0; width: 100%; margin-left: 0; margin-right: 0;">
-    <h2 style="text-align: center; margin-bottom: 20px;">News</h2>
-    
-    <!-- Carousel Wrapper -->
-    <div class="carousel-container" style="position: relative; overflow: hidden;">
-        <!-- Carousel Content -->
-        <div id="news-carousel" style="display: flex; transition: transform 0.5s ease;">
 
-            {% for item in site.data.news %}
-            <!-- News Item -->
-            <div style="border: 1px solid lightgrey; padding: 20px; background-color: #ffffff; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); display: flex; justify-content: space-between; align-items: center; flex: 0 0 33.33%; box-sizing: border-box; margin-bottom: 20px;">
-                <div style="flex: 1;">
-                    <!-- Title with Fixed Height -->
-                    <h3 style="color: #1f71a9; min-height: 60px; margin-bottom: 10px;">
-                        <a href="{{ item.link }}" style="color: #1f71a9; text-decoration: none;">{{ item.title }}</a>
-                    </h3>
-                    <p>{{ item.preview }}</p>
-                </div>
-                <!-- Conditional Image -->
-                {% if item.image %}
-                <img src="{{ item.image }}" style="width: 200px; height: auto; border-radius: 8px; margin-left: 20px;" />
-                {% endif %}
-            </div>
-            {% endfor %}
-            
-        </div>
-    </div>
-
-    <!-- Carousel Arrows -->
-    <div style="text-align: center; margin-top: 20px;">
-        <button id="prev" style="background: rgba(0, 0, 0, 0.5); color: white; border: none; padding: 10px 20px; cursor: pointer; margin-right: 10px;">&lt;</button>
-        <button id="next" style="background: rgba(0, 0, 0, 0.5); color: white; border: none; padding: 10px 20px; cursor: pointer;">&gt;</button>
-    </div>
-</div>
-
-<script>
-    const prevButton = document.getElementById("prev");
-    const nextButton = document.getElementById("next");
-    const carousel = document.getElementById("news-carousel");
-    let currentIndex = 0;
-    const totalItems = carousel.children.length;
-    const itemsToShow = 3;
-
-    prevButton.addEventListener("click", () => {
-        currentIndex = (currentIndex === 0) ? totalItems - itemsToShow : currentIndex - 1;
-        updateCarousel();
-    });
-
-    nextButton.addEventListener("click", () => {
-        currentIndex = (currentIndex === totalItems - itemsToShow) ? 0 : currentIndex + 1;
-        updateCarousel();
-    });
-
-    function updateCarousel() {
-        const offset = -currentIndex * (100 / itemsToShow);
-        carousel.style.transform = `translateX(${offset}%)`;
-    }
-</script>
-
-
+{% comment %}
+{% include news.html %}
+{% endcomment %}
