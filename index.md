@@ -24,7 +24,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
                 
                 We use molecular simulations to undestand how the solution impacts crystal surface structure and dynamics. </p>
         </div>
-        <a href="/research/#crystal-liquid-interfaces" class="button">Read More</a>
+        <a href="/research/crystal-liquid-interfaces" class="button">Read More</a>
     </div>
     <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
         <div>
@@ -34,7 +34,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
             
             We develop and apply advanced statistical mechanics techniques, particularly classical density functional theory, to bridge the micro- and mesoscopic domains.</p>
         </div>
-        <a href="/research/#multiscale-modelling" class="button">Read More</a>
+        <a href="/research/multiscale-modelling" class="button">Read More</a>
     </div>
     <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
         <div>
@@ -45,7 +45,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
             We use molecular simulations to understand both the structure and dynamics of electric double layer systems.
             </p>
         </div>
-        <a href="/research/#energy-storage" class="button">Read More</a>
+        <a href="/research/energy-storage" class="button">Read More</a>
     </div>
 </div>
 
