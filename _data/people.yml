@@ -1,7 +1,7 @@
 - image: /group/portraits/steve.jpg
   name: "Stephen Cox"
   position: "Principal Investigator"
-  url: "https://www.durham.ac.uk/staff/stephen-j-cox/"
+  url: "https://www.durham.ac.uk/staff/stephen-j-cox"
 
 - image: /group/portraits/Alex.jpg
   name: "Alex R. Epstein"
@@ -9,7 +9,7 @@
   research: 
   - "Genuine multiscale modelling"
   - "Crystal-liquid interfaces"
-  url: "/group/AlexanderEpstein/"
+  url: "/group/AlexanderEpstein"
 
 - image: /group/portraits/anna.jpg
   name: "Anna Bui"
@@ -17,21 +17,21 @@
   research:
   - "Genuine multiscale modelling"
   - "Reponse and relaxation in energy storage systems"
-  url: "/group/AnnaBui/"
+  url: "/group/AnnaBui"
 
 - image: /group/portraits/john.jpg
   name: "John Hayton"
   position: "PhD student"
   research:
   - "Crystal-liquid interfaces"
-  url: "/group/JohnHayton/"
+  url: "/group/JohnHayton"
 
 - image: /group/portraits/connie.jpg
   name: "Connie Fairchild"
   position: "PhD student"
   research:
   - "Reponse and relaxation in energy storage systems"
-  url: "/group/ConnieFairchild/"
+  url: "/group/ConnieFairchild"
 
 - image: /group/portraits/fiona.jpg
   name: "Fiona Baumhauer"
@@ -39,7 +39,7 @@
   research:
     - "Crystal-liquid interfaces"
     - "Genuine multiscale modelling"
-  url: "/group/FionaBaumhauer/"
+  url: "/group/FionaBaumhauer"
 
 - image: /group/portraits/dom.jpg
   name: "Dom Thomas"
@@ -47,11 +47,11 @@
   research:
     - "Genuine multiscale modelling"
     - "Reponse and relaxation in energy storage systems"
-  url: "/group/DomThomas/"
+  url: "/group/DomThomas"
 
 - image: /group/portraits/katie.jpeg
   name: "Katie Zhou"
   position: "Master's student"
   research:
   - "Genuine multiscale modelling"
-  url: "/group/KatieZhou/"
+  url: "/group/KatieZhou"
