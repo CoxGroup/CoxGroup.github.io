@@ -1,19 +1,17 @@
-- title: "New Paper Published"
-  link: "/news/placeholder/"
+- title: "Anna’s cDFT solvation paper out in the Journal of Chemical Physics"
   image: "/group/portraits/group.jpg"
-  preview: "Our latest paper has been published."
+  preview: "We present an approach which builds on the Lum-Chandler-Weeks(LCW) theory of hydrophobicity, which is both numerically simpler and generalizes to solutes with soft-core repulsion more easily. This allows us to describe solvation at a first-principles level on length scales that vastly exceed what is accessible to molecular simulations!"
 
 - title: "More news!"
   link: "/news/placeholder/"
-  image: "/research/nanoscaletop.png"
-  preview: "Here is some more news."
+  preview: "Here is some more news. Yet again more news. Yet again more news. Yet again more news"
 
 - title: "Even more news"
   link: "/news/placeholder/"
   image: "/research/TOC-fun.png"
   preview: "Yet again more news."
 
-- title: "News news news"
+- title: "Anna’s cDFT solvation paper out in the Journal of Chemical Physics"
   link: "/news/placeholder/"
   image: "/publications/logo-electrochemical.png"
   preview: "News news news news news."
