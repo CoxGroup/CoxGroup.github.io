@@ -23,4 +23,6 @@ We also have a keen interest in polar crystal surfaces. We are interested in pol
   <li><em>Stabilization of AgI's polar surfaces by the aqueous environment, and its implications for ice formation.</em> T Sayer and SJ Cox, <em> J. Chem. Phys. 21,</em> 14546, 2019. </li>
   <li> <em>A theory for the stabilization of polar crystal surfaces by a liquid environment.</em> SJ Cox, <em>J. Chem. Phys. 157 </em>, 094701, 2022.
   </li>
+    <li> <em>Macroscopic surface charges from microscopic simulations.</em> T Sayer, SJ Cox, <em>J. Chem. Phys. 153 </em>, 164709, 2020.
+  </li>
 </ol>
