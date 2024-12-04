@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Cox Group
+permalink:/group
 ---
 
 
