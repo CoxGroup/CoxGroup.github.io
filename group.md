@@ -26,10 +26,7 @@ permalink: /group
           <p><strong>{{ person.name }}</strong></p>
         </a>
         <p><em>{{ person.position }}</em></p>
-
-        <!-- Add some space between the job title and the list -->
         <div style="margin-bottom: 10px;"></div>
-        
         {% if person.research %}
           <ul style="list-style-position: inside; padding-left: 0; margin-left: 0; font-size: 0.9em;">
             {% for interest in person.research %}
@@ -41,4 +38,5 @@ permalink: /group
     </div>
   {% endfor %}
 </div>
+
 
