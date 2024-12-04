@@ -56,7 +56,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
 
 
 <div style="height: 40px;"></div>
-<!--
+
 <!-- News Section -->
 <div style="background-color: #f0f0f0; padding: 40px 0; width: 100%; margin-left: 0; margin-right: 0;">
     <h2 style="text-align: center; margin-bottom: 20px;">News</h2>
@@ -112,5 +112,3 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
         carousel.style.transform = `translateX(${offset}%)`;
     }
 </script>
-
--->
