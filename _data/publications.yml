@@ -53,7 +53,7 @@
   volume: "74"
   article: "1"
   doi: "https://doi.org/10.1146/annurev-physchem-101422-030127"
-  image: "TheWorkOfPhillipGeissler.png"
+  image: "/publications/TheWorkOfPhillipGeissler.png"
 
 - title: "Classical Quantum Friction at Water-Carbon Interfaces"
   authors: "AT Bui, FL Thiemann, A Michaelides, SJ Cox"
@@ -71,7 +71,7 @@
   volume: "157"
   article: "094701"
   doi: "https://doi.org/10.1063/5.0097531"
-  image: "StabilizationOfPolarCrystalSurfaces.png"
+  image: "/publications/StabilizationOfPolarCrystalSurfaces.png"
 
 - title: "Trade-Off between Redox Potential and the Strength of Electrochemical CO2 Capture in Quinones"
   authors: "AT Bui, NA Hartley, AJW Thom, AC Forse"
@@ -116,7 +116,7 @@
   volume: "154"
   article: "244502"
   doi: "https://doi.org/10.1063/5.0097531"
-  image: "quadrupole.png"
+  image: "/publications/quadrupole.png"
 
 - title: "Microscopic Kinetics Pathway of Salt Crystallization in Graphene Nanocapillaries"
   authors: "L Wang, J Chen, SJ Cox, L Liu, GC Sosso, N Li, P Gao, A Michaelides, E Wang, X Bai"
