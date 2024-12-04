@@ -98,7 +98,7 @@
   volume: "156"
   article: "164501"
   doi: "https://doi.org/10.1063/5.0085750"
-  image: "compare_homogeneous_and_heterogeneous_IN.png"
+  image: "/publications/compare_homogeneous_and_heterogeneous_IN.png"
 
 - title: "How do interfaces alter the dynamics of supercooled water?"
   authors: "P Gasparotto, M Fitzner, SJ Cox, GC Sosso, A Michaelides"
@@ -125,7 +125,7 @@
   volume: "126"
   article: "136001"
   doi: "https://doi.org/10.1103/PhysRevLett.126.136001"
-  image: "microscopic_kinetics_pathway_of_salt_crystallization.png"
+  image: "/publications/microscopic_kinetics_pathway_of_salt_crystallization.png"
 
 - title: "Macroscopic surface charges from microscopic simulations"
   authors: "T Sayer, SJ Cox"
@@ -134,7 +134,7 @@
   volume: "153"
   article: "164709"
   doi: "https://doi.org/10.1063/5.0022596"
-  image: "macroscopic_surface_charges.png"
+  image: "/publications/macroscopic_surface_charges.png"
 
 - title: "Dielectric response with short-ranged electrostatics"
   authors: "SJ Cox"
@@ -143,7 +143,7 @@
   volume: "117"
   article: "19746"
   doi: "https://doi.org/10.1073/pnas.2005847117"
-  image: "dielectric-response-short-ranged-electrostatics.png"
+  image: "/publications/dielectric-response-short-ranged-electrostatics.png"
 
 - title: "Finite field formalism for bulk electrolyte solutions"
   authors: "SJ Cox, M Sprik"
@@ -152,7 +152,7 @@
   volume: "151"
   article: "064506"
   doi: "https://doi.org/10.1063/1.5099207"
-  image: "finite-field-formalism.png"
+  image: "/publications/finite-field-formalism.png"
 
 - title: "Stabilization of AgI's polar surfaces by the aqueous environment, and its implications for ice formation"
   authors: "T Sayer, SJ Cox"
