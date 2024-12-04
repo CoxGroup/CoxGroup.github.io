@@ -4,3 +4,4 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 url: coxgroup.github.io
+plugins: jekyll-relative-links
