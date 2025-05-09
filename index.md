@@ -45,7 +45,7 @@ Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoreti
             We use molecular simulations to understand both the structure and dynamics of electric double layer systems.
             </p>
         </div>
-        <a href="/research/energy-storage" class="button">Read More</a>
+        <a href="/research/energy-storage-systems" class="button">Read More</a>
     </div>
 </div>
 
