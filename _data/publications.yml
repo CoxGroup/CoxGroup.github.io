@@ -1,8 +1,47 @@
+- title: "Dielectrocapillarity for exquisite control of fluids"
+  authors: "AT Bui, SJ Cox"
+  year: 2025
+  journal: "arxiv preprint"
+  volume: ""
+  article: ""
+  link: "https://arxiv.org/pdf/2503.09855"
+  image: "/publications/dielectrocap.png"
+
+- title: "A first-principles approach to electromechanics in liquids"
+  authors: "AT Bui, SJ Cox"
+  year: 2025
+  journal: "J. Phys: Condens. Matter"
+  volume: "37"
+  article: "285101"
+  link: "https://iopscience.iop.org/article/10.1088/1361-648X/ade7e7/meta"
+  image: "/publications/electromatrix.png"
+
+- title: "Momentum tunnelling between nanoscale liquid flows"
+  authors: "B Coquinot, AT Bui, D Toquer, A Michaelides, N Kavokine, SJ Cox, L Bocquet"
+  year: 2025
+  journal: "Nature Nanotech."
+  volume: "20"
+  article: "397"
+  link: "https://www.nature.com/articles/s41565-024-01842-8"
+  image: ""
+
 - title: "Learning classical density functionals for ionic fluids"
   authors: "AT Bui, SJ Cox"
-  year: 2024
-  link: "https://arxiv.org/abs/2410.02556v1"
+  year: 2025
+  journal: "Phys. Rev. Lett."
+  volume: "134"
+  article: "148001"
+  link: "https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.134.148001"
   image: "/publications/cdftforionicfluids.png"
+
+- title: "Symmetry Breaking in the Superionic Phase of Silver Iodide"
+  authors: "A Hajibabaei, WJ Baldwin, G Csányi, SJ Cox"
+  year: 2025
+  journal: "Phys. Rev. Lett."
+  volume: "134"
+  article: "026306"
+  link: "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.026306"
+  image: "/publications/AgI.png"
 
 - title: "Crumbling Crystals: On the Dissolution Mechanism of NaCl in Water"
   authors: "N O'Neill, C Schran, SJ Cox, A Michaelides"
@@ -13,10 +52,13 @@
   doi: "http://dx.doi.org/10.1039/D4CP03115F"
   image: "/publications/CrumblingCrystalsTOC.gif"
 
-- title: "Flow is slow at the nanoscale: Revisiting the Green-Kubo relation for friction"
+- title: "Revisiting the Green–Kubo relation for friction in nanofluidics"
   authors: "AT Bui, SJ Cox"
   year: 2024
-  link: "https://arxiv.org/abs/2409.07134v1"
+  journal: "J. Chem. Phys."
+  volume: "161"
+  article: "201102"
+  link: "https://pubs.aip.org/aip/jcp/article/161/20/201102/3322439"
   image: "/publications/flowisslow.png"
 
 - title: "A classical density functional theory for solvation across length scales"

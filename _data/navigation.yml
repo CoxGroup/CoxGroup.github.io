@@ -1,6 +1,6 @@
 - name: "HOME"
   link: "/"
-- name: "GROUP"
+- name: "PEOPLE"
   link: "/group"
 - name: "RESEARCH"
   link: "/research"

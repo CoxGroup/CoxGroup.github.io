@@ -1,8 +1,28 @@
 title: The Cox Group
-description: A computational and theoretical chemistry group in the Department of Chemistry, Durham University.
+description: >
+  A computational and theoretical chemistry group in the Department of Chemistry, Durham University.
 show_downloads: true
-google_analytics:
+google_analytics:  # (add your tracking ID if you have one, e.g. G-XXXXXXX)
 theme: jekyll-theme-cayman
-url: https://coxgroup.github.io
-baseurl: ""
-  #plugins: [jekyll-relative-links]
+
+# ---- SEO and site metadata ----
+url: "https://coxgroup.github.io"   # your full URL
+baseurl: ""                         # no subpath for user pages
+lang: en-GB
+
+# Add these plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Optional: enriches SEO tags
+author:
+  name: "The Cox Group"
+  email: "your.email@durham.ac.uk"
+  url: "https://coxgroup.github.io"
+
+# Optional social metadata (used by jekyll-seo-tag)
+social:
+  name: "The Cox Group"
+  links:
+    - "https://github.com/coxgroup"
