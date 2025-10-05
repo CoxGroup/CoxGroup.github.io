@@ -8,7 +8,8 @@ title: Research
 
 <div style="height: 40px;"></div>
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+<div class="research-grid">
+
     <div style="border: 1px solid lightgrey; padding: 10px; display: flex; flex-direction: column; justify-content: space-between; height: 100%; background-color: #e7e7e7; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
         <div>
             <img src="/research/crystal-surfaces-aspect.png" alt="Image 1 Description" style="width: 100%; height: auto; max-height: 300px; max-width:500px; margin: 0 auto 2ex; display: block;" />
