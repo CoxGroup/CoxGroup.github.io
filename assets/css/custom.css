@@ -175,3 +175,45 @@ header.page-header {
   }
 }
 
+.publications-list {
+  margin-top: 1.5rem;
+}
+
+.publication-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+  margin-bottom: 1.5rem;
+}
+
+.pub-thumb {
+  width: 150px;
+  max-width: 30%;
+  height: auto;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+.pub-info {
+  flex: 1;
+  line-height: 1.5;
+}
+
+/* 🧠 Responsive stacking on mobile */
+@media (max-width: 700px) {
+  .publication-item {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .pub-thumb {
+    width: 70%;
+    max-width: 250px;
+    margin-bottom: 10px;
+  }
+
+  .pub-info {
+    text-align: left;
+  }
+}
