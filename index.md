@@ -5,11 +5,28 @@ title: Home
 
 <div style="height: 20px;"></div>
 
-<p>
-Welcome to the Cox Group homepage! We are a <b>computational</b> and <b>theoretical chemistry</b> group in the Department of Chemistry, Durham University.
-</p>
+<div class="homepage-text">
 
-<p>In the Cox Group, we use theory and molecular simulations to understand the properties of liquids and liquid-solid interfaces. Our focus is on understanding emergent phenomena: How do properties at the microscopic scale impact phenomena on the meso- and macro scales? Individual research topics fall broadly within the following themes:</p>
+  <p>Welcome to the Cox Group homepage! We are a <b>computational</b>
+  and <b>theoretical chemistry</b> group in the Department of
+  Chemistry at Durham University.</p>
+
+  <p>Our research aims to understand the behaviour of liquids and
+  liquid–solid interfaces from a molecular perspective. Much of our
+  current work focuses on developing and applying <b>classical density
+  functional theory (cDFT)</b> to predict the structure and
+  thermodynamics of complex, inhomogeneous fluids.</p>
+
+  <p>Although this work is fundamental in nature, accurate modelling
+  of fluids under confinement and across multiple length scales offers
+  exciting opportunities for the <b>bottom-up design</b> of new
+  devices — particularly those relevant to <b>energy storage</b> and
+  <b>chemical separation</b> processes.</p>
+
+  <p>We also use <b>molecular simulation</b> techniques to study
+nonequilibrium phenomena such as <b>crystal growth</b>,
+<b>energy-storage dynamics</b>, and <b>friction at liquid–solid
+interfaces</b>.</p> </div>
 
 <div style="height: 40px;"></div>
 
