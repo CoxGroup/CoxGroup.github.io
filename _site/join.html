@@ -38,8 +38,14 @@
 
 
 
+<!-- Verification for Google console -->
+<meta name="google-site-verification" content="l9u6DSwP7vukJVgF3fxsyDC_XpzWmnZK7cnzUwK-BT0" />
+
 <!-- You can set your favicon here -->
 <!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- for stacking grids on mobile -->
+<link rel="stylesheet" href="/assets/css/custom.css">
 
 <!-- end custom head snippets -->
 
@@ -47,152 +53,227 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
     <nav>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-        }
-        nav {
-            background-color: #77b2d0;
-            padding: 10px; 
-            display: flex;
-            align-items: center; 
-            position: sticky; 
-            top: 0; 
-            z-index: 1000; 
-            width: 100%;
-            border-bottom: 2px solid #000000;
-        }
-        .nav-header {
-            display: flex; 
-            flex-direction: column; 
-            margin-left: 10px; 
-        }
-        nav img {
-            height: 70px; 
-            margin-left: 0.4em;
-            margin-right: 1em;
-        }
-        nav h2 {
-            color: #e7e7e7; 
-            margin: 0; 
-            font-size: 1.5em; 
-        }
-        .nav-buttons {
-            display: flex; 
-            flex-wrap: wrap; 
-            justify-content: flex-start; 
-            padding-top: 0px;
-        }
-        nav a {
-            color: #e7e7e7;
-            text-decoration: none;
-            padding: 5px 10px; 
-            margin: 0 5px; 
-            line-height: 1;
-            position: relative;
-        }
-        nav a:hover {
-            background-color: #1f71a9;
-            text-decoration: none;
-            color: #e7e7e7;
-        }
-        .dropdown {
-            position: relative;
-        }
-        .dropdown-content {
-            display: none;
-            position: absolute;
-            background-color: #77b2d0;
-            min-width: 160px;
-            box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
-            z-index: 1;
-        }
-        .dropdown-content a {
-            color: #e7e7e7;;
-            padding: 10px 16px;
-            text-decoration: none;
-            display: block;
-        }
-        .dropdown-content a:hover {
-            background-color: #1f71a9;
-            text-decoration: none;
-        }
-        .dropdown:hover .dropdown-content {
-            display: block;
-        }
-        .dropdown-arrow {
-            display: inline-block;
-            width: 0;
-            height: 0;
-            margin-left: 0.2em;
-            border-left: 5px solid transparent;
-            border-right: 5px solid transparent;
-            border-top: 5px solid #e7e7e7;
-            vertical-align: middle;
-        }
-        .thecoxgroup {
-            font-size: 24px;
-            color: #e7e7e7;;
-            padding-left: 15px;
-        }
-        .department {
-            font-size: 16px;
-            color: #b8beca;
-        }
-    </style>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    nav {
+      background-color: #77b2d0;
+      padding: 10px;
+      display: flex;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      width: 100%;
+      border-bottom: 2px solid #000000;
+      flex-wrap: wrap;
+    }
+    nav img {
+      height: 70px;
+      margin-left: 0.4em;
+      margin-right: 1em;
+    }
+    .nav-header {
+      display: flex;
+      flex-direction: column;
+      margin-left: 10px;
+    }
+    .thecoxgroup {
+      font-size: 24px;
+      color: #e7e7e7;
+      padding-left: 15px;
+    }
+    .department {
+      font-size: 16px;
+      color: #b8beca;
+    }
+    .nav-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      padding-top: 0px;
+    }
+    nav a {
+      color: #e7e7e7;
+      text-decoration: none;
+      padding: 5px 10px;
+      margin: 0 5px;
+      line-height: 1;
+      position: relative;
+    }
+    nav a:hover {
+      background-color: #1f71a9;
+      color: #e7e7e7;
+    }
 
+    /* Dropdown */
+    .dropdown {
+      position: relative;
+    }
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #77b2d0;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+      z-index: 1;
+    }
+    .dropdown-content a {
+      color: #e7e7e7;
+      padding: 10px 16px;
+      text-decoration: none;
+      display: block;
+    }
+    .dropdown-content a:hover {
+      background-color: #1f71a9;
+    }
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+    .dropdown-arrow {
+      display: inline-block;
+      width: 0;
+      height: 0;
+      margin-left: 0.2em;
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-top: 5px solid #e7e7e7;
+      vertical-align: middle;
+    }
+
+    /* Hamburger button */
+    .menu-toggle {
+      display: none;
+      background: none;
+      border: none;
+      font-size: 2em;
+      color: #e7e7e7;
+      margin-left: auto;
+      cursor: pointer;
+    }
+
+    /* Responsive layout */
+    @media (max-width: 850px) {
+      nav {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      .menu-toggle {
+        display: block;
+      }
+      .nav-buttons {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+      }
+      .nav-buttons.show {
+        display: flex;
+      }
+      .dropdown-content {
+        position: static;
+        box-shadow: none;
+      }
+    }
+  </style>
+
+  <img src="/homepage/durham-university-logo.svg" alt="Logo" />
+  <div class="nav-header">
+    <div><span class="thecoxgroup"><b>THE COX GROUP</b></span></div>
+  </div>
+
+  <!-- Hamburger button -->
+  <button class="menu-toggle" aria-label="Toggle menu">☰</button>
+
+  <div class="nav-buttons">
     
-    <img src="/homepage/durham-university-logo.svg" alt="Logo">
-    <div class="nav-header">
-        <div><span class = "thecoxgroup"> <b>THE COX GROUP</b> </span></div>
-        <div class="nav-buttons">
-            
-                
-                <a href="/" class="">HOME</a>
-                
-            
-                
-                <a href="/group" class="">PEOPLE</a>
-                
-            
-                
-                <div class="dropdown">
-                    <a href="/research" class="">RESEARCH <span class="dropdown-arrow"></span>
-                    </a>
-                    <div class="dropdown-content">
-                        
-                            <a href="/research/crystal-liquid-interfaces"">Crystal-liquid interfaces</a>
-                        
-                            <a href="/research/genuine-multiscale-modelling">Genuine multiscale modelling</a>
-                        
-                            <a href="/research/energy-storage-systems">Response and relaxation in energy storage systems</a>
-                        
-                    </div>
-                </div>
-                
-            
-                
-                <a href="/publications" class="">PUBLICATIONS</a>
-                
-            
-                
-                <a href="/join" class="">JOIN US!</a>
-                
-            
+      
+      <a href="/" class="">
+        HOME
+      </a>
+      
+    
+      
+      <a href="/group" class="">
+        PEOPLE
+      </a>
+      
+    
+      
+      <div class="dropdown">
+        <a href="/research" class="">
+          RESEARCH <span class="dropdown-arrow"></span>
+        </a>
+        <div class="dropdown-content">
+          
+            <a href="/research/crystal-liquid-interfaces"">Crystal-liquid interfaces</a>
+          
+            <a href="/research/genuine-multiscale-modelling">Genuine multiscale modelling</a>
+          
+            <a href="/research/energy-storage-systems">Response and relaxation in energy storage systems</a>
+          
         </div>
-    </div>
+      </div>
+      
+    
+      
+      <a href="/publications" class="">
+        PUBLICATIONS
+      </a>
+      
+    
+      
+      <a href="/join" class="">
+        JOIN US!
+      </a>
+      
+    
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const toggle = document.querySelector(".menu-toggle");
+      const navButtons = document.querySelector(".nav-buttons");
+      toggle.addEventListener("click", function() {
+        navButtons.classList.toggle("show");
+      });
+    });
+  </script>
 </nav>
 
 
     <main id="content" class="main-content" role="main">
       <h1>Interested in joining the Cox Group?</h1>
 
-<p><b>PhD studentship (UK fees) available for October 2025!</b></p>
+<p><strong>PhD Studentships — Starting October 2026</strong></p>
 
-<p>If you are interested in PhD research but do not qualify for UK fees, please contact Steve (stephen.j.cox@durham.ac.uk) with a CV and statement of research interests to discuss funding opportunities.</p>
+<p> We welcome applications from enthusiastic and motivated students
+who are interested in pursuing a PhD in our group.  If you are
+considering joining us, please contact <a href="mailto:stephen.j.cox@durham.ac.uk">Steve Cox</a> directly to
+discuss potential funding opportunities.  When you get in touch,
+please include an up-to-date CV and a short description of your
+previous research experience.  </p>
 
-<p>Postdoctoral research positions will be announced when appropriate funding is available. We are also happy to host early career researchers with individual fellowships (e.g., Leverhulme ECFs, 1851 Research Fellows, Marie Curie). Please contact Steve if you are thinking of applying.</p>
+<p> Possible PhD projects are likely to focus on developing
+<b>classical density functional theory</b> methods to understand
+<b>chemical separation processes under confinement</b> or
+<b>electrochemical energy storage</b>.  The precise topic can be
+tailored to the strengths and interests of the candidate, so please
+reach out to discuss ideas.  </p>
+
+<hr />
+
+<p><strong>Postdoctoral Research Opportunities</strong></p>
+
+<p>
+Postdoctoral positions will be advertised when funding becomes available. 
+We are also keen to support applications for independent fellowships 
+(such as <a href="https://royalcommission1851.org/fellowships/research-fellowships" target="_blank">1851 Research Fellowships</a> 
+or <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/" target="_blank">Marie Skłodowska-Curie Fellowships</a>). 
+If you are interested in joining the group through one of these routes, please contact Steve to discuss potential projects.
+</p>
+
 
 
       <footer class="site-footer">
