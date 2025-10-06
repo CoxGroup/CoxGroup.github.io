@@ -23,7 +23,7 @@
   volume: "20"
   article: "397"
   link: "https://www.nature.com/articles/s41565-024-01842-8"
-  image: ""
+  image: "/publications/flowtunneling.png"
 
 - title: "Learning classical density functionals for ionic fluids"
   authors: "AT Bui, SJ Cox"
