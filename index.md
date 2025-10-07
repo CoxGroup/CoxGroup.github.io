@@ -96,16 +96,16 @@ interfaces</b>.</p> </div>
 <div class="research-grid">
   <div class="research-card">
     <div>
-      <img src="/group/portraits/group.jpg" alt="Group photo" />
+      <img src="/research/cdft_TOC.png" alt="Research picture" />
     </div>
-    <a href="group" class="button">Meet the team!</a>
+    <a href="research" class="button">Read more about our research</a>
   </div>
 
   <div class="research-card">
     <div>
-      <img src="/research/cdft_TOC.png" alt="Research picture" />
+      <img src="/group/portraits/group.jpg" alt="Group photo" />
     </div>
-    <a href="research" class="button">Read more about our research</a>
+    <a href="group" class="button">Meet the team!</a>
   </div>
 
   <div class="research-card">
