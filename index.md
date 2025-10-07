@@ -96,41 +96,23 @@ interfaces</b>.</p> </div>
 <div class="research-grid">
   <div class="research-card">
     <div>
-      <img src="/research/crystal-surfaces-aspect.png" alt="Crystal-liquid interfaces" />
-      <p><b>Crystal-liquid interfaces</b></p>
-      <p>
-        Crystal-liquid interfaces are complex systems of great fundamental and technological importance.<br><br>
-        We use molecular simulations to understand how the solution impacts crystal surface structure and dynamics.
-      </p>
+      <img src="/group/portraits/group.jpg" alt="Group photo" />
     </div>
-    <a href="/research/crystal-liquid-interfaces" class="button">Read More</a>
+    <a href="group" class="button">Meet the team!</a>
   </div>
 
   <div class="research-card">
     <div>
-      <img src="/research/cdft_TOC.png" alt="Genuine multiscale modelling" />
-      <p><b>Genuine multiscale modelling</b></p>
-      <p>
-        Describing mesoscopic phenomena is important to understanding the impact of physical chemistry on length scales
-        relevant to biology and microdevices.<br><br>
-        We develop and apply advanced statistical mechanics techniques, particularly classical density functional theory,
-        to bridge the micro- and mesoscopic domains.
-      </p>
+      <img src="/research/cdft_TOC.png" alt="Research picture" />
     </div>
-    <a href="/research/genuine-multiscale-modelling" class="button">Read More</a>
+    <a href="research" class="button">Read more about our research</a>
   </div>
 
   <div class="research-card">
     <div>
-      <img src="/research/energy-storage-whitespace.png" alt="Response and relaxation in energy storage systems" />
-      <p><b>Response and relaxation in energy storage systems</b></p>
-      <p>
-        Understanding the fundamental chemical physics of electrochemical devices is essential to the design of more
-        efficient energy storage systems.<br><br>
-        We use molecular simulations to understand both the structure and dynamics of electric double layer systems.
-      </p>
+      <img src="/publications/cdftforionicfluids.png" alt="Publications" />
     </div>
-    <a href="/research/energy-storage-systems" class="button">Read More</a>
+    <a href="publications" class="button">Find our publications</a>
   </div>
 </div>
 
