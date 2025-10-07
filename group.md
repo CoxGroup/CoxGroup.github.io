@@ -4,9 +4,8 @@ title: The Cox Group
 permalink: /group
 ---
 
-
-<div style="text-align: center;">
-    <img src="/group/portraits/group.jpg" alt="The Cox Group" style="width: 100%;border-radius: 10px;" />
+<div class="group-photo">
+  <img src="/group/portraits/group.jpg" alt="The Cox Group" />
 </div>
 
 <br>
@@ -41,4 +40,6 @@ permalink: /group
     </div>
   {% endfor %}
 </div>
+
+
 
