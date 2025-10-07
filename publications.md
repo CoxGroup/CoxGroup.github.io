@@ -3,8 +3,7 @@ layout: default
 title: Publications
 ---
 
-<div class="pageheadline">Publications</div>
-<hr class="custom-hr">
+<h1>Publications</h1>
 
 <p>
 A selection of publications is shown below. A full list of publications can be found 

@@ -8,10 +8,8 @@ permalink: /group
   <img src="/group/portraits/group.jpg" alt="The Cox Group" />
 </div>
 
-<br>
+<h1>Group Members</h1>
 
-<div class = "pageheadline" >Group Members</div>
-<hr class="custom-hr"> 
 <br>
 
 <div class="people">

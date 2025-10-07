@@ -3,8 +3,7 @@ layout: default
 title: Research
 ---
 
-<div class = "pageheadline" >Research topics</div>
-<hr class="custom-hr">
+<h1>Research Topics</h1>
 
 <div style="height: 40px;"></div>
 

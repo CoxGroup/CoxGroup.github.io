@@ -3,8 +3,6 @@ layout: index_layout
 title: Home
 ---
 
-<div style="height: 20px;"></div>
-
 <div class="homepage-text">
 
   <p>Welcome to the Cox Group homepage! We are a <b>computational</b>
