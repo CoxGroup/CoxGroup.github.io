@@ -6,52 +6,52 @@
 - image: /group/portraits/Alex.jpg
   name: "Alex R. Epstein"
   position: "Postdoctoral Researcher"
-  research: 
-  - "Genuine multiscale modelling"
-  - "Crystal-liquid interfaces"
+#  research: 
+#  - "Genuine multiscale modelling"
+#  - "Crystal-liquid interfaces"
   url: "/group/AlexanderEpstein"
 
 - image: /group/portraits/anna.jpg
   name: "Anna Bui"
   position: "PhD student"
-  research:
-  - "Genuine multiscale modelling"
-  - "Reponse and relaxation in energy storage systems"
+#  research:
+#  - "Genuine multiscale modelling"
+#  - "Reponse and relaxation in energy storage systems"
   url: "/group/AnnaBui"
 
 - image: /group/portraits/john.jpg
   name: "John Hayton"
   position: "PhD student"
-  research:
-  - "Crystal-liquid interfaces"
+#  research:
+#  - "Crystal-liquid interfaces"
   url: "/group/JohnHayton"
 
 - image: /group/portraits/connie.jpg
   name: "Connie Fairchild"
   position: "PhD student"
-  research:
-  - "Reponse and relaxation in energy storage systems"
+#  research:
+#  - "Reponse and relaxation in energy storage systems"
   url: "/group/ConnieFairchild"
 
 - image: /group/portraits/fiona.jpg
   name: "Fiona Baumhauer"
   position: "PhD student"
-  research:
-    - "Crystal-liquid interfaces"
-    - "Genuine multiscale modelling"
+#  research:
+#    - "Crystal-liquid interfaces"
+#    - "Genuine multiscale modelling"
   url: "/group/FionaBaumhauer"
 
 - image: /group/portraits/dom.jpg
   name: "Dom Thomas"
   position: "PhD student"
-  research:
-    - "Genuine multiscale modelling"
-    - "Reponse and relaxation in energy storage systems"
+#  research:
+#    - "Genuine multiscale modelling"
+#    - "Reponse and relaxation in energy storage systems"
   url: "/group/DomThomas"
 
 - image: /group/portraits/katie.jpeg
   name: "Katie Zhou"
   position: "Master's student"
-  research:
-  - "Genuine multiscale modelling"
+#  research:
+#  - "Genuine multiscale modelling"
   url: "/group/KatieZhou"
