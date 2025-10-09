@@ -365,3 +365,34 @@ header.page-header {
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
+/* --- News Page Styles --- */
+.news-list {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.news-item {
+  margin-bottom: 2rem;
+}
+
+.news-item h3 {
+  margin-bottom: 0.3rem;
+  color: #157878;
+}
+
+.news-item a {
+  text-decoration: none;
+  color: #157878;
+  font-weight: 500;
+}
+
+.news-item a:hover {
+  text-decoration: underline;
+}
+
+.news-date {
+  color: #777;
+  font-size: 0.9em;
+  margin-bottom: 0.6em;
+}

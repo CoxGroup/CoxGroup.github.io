@@ -26,3 +26,9 @@ social:
   name: "The Cox Group"
   links:
     - "https://github.com/coxgroup"
+
+# ---- Collections ----
+collections:
+  news:
+    output: true         # ensures each news item generates a page
+    permalink: /news/:name
