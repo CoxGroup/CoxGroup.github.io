@@ -15,6 +15,6 @@
 - name: "PUBLICATIONS"
   link: "/publications"
 - name: NEWS
-  link: /news/
+  link: "/news/"
 - name: "JOIN US!"
   link: "/join"
