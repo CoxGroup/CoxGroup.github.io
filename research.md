@@ -57,3 +57,35 @@ title: Research
 
 </div>
 
+<h1>Crystals in solution: Surface structure and morphology</h1>
+
+<div class="homepage-text">
+
+  <p>
+    Our research also extends beyond the behavior of liquids to explore
+    how the surrounding fluid environment influences solid surfaces.
+    In particular, we are interested in polar crystal surfaces and in
+    modelling crystal growth from microscopic principles.
+  </p>
+
+  <p> Understanding these processes is key to controlling crystal
+    morphology and interfacial structure <span>&#8212;</span> insights
+    that are crucial for applications ranging from energy storage
+    materials, biomineralization, and catalysis.
+  </p>
+
+  <p> We have shown <a
+  href="https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp02193k"
+  target="_blank" rel="noopener noreferrer">how the aqueous
+  environment can stabilise the polar surface of AgI</a>, and the
+  impact this has on its ice-nucleating capability. We also
+  demonstrated <a
+  href="https://pubs.aip.org/aip/jcp/article-abstract/153/16/164709/200372/Macroscopic-surface-charges-from-microscopic?redirectedFrom=fulltext"
+  target="_blank" rel="noopener noreferrer">how to effectively
+  simulate macroscopic polar crystal surfaces</a>, and <a
+  href="https://pubs.aip.org/aip/jcp/article/157/9/094701/2841821/A-theory-for-the-stabilization-of-polar-crystal"
+  target="_blank" rel="noopener noreferrer">we established a theory
+  for the stabilization of polar surfaces in solution</a>.
+  </p>
+
+</div>
