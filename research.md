@@ -43,17 +43,14 @@ title: Research
   <div class="figure-center">
     <img src="/research/research1.png" alt="Demonstration of recent research">
 
-    <p>
-      <em>
-        <b>Left:</b> Applying an electric field to bulk water induces
-        a response in the number density <span>&#8212;</span> a perfect
-        example of electromechanics! <b>Right:</b> Electric fields can
-        also be used to control adsorption into pores. In the top
-        panel, turning on a field makes it easier for the fluid to
-        enter the pore.
-      </em>
-    </p>
-  </div>
+    <p> <em> <b>Left:</b> Applying an electric field to bulk water
+      induces a response in the number density <span>&#8212;</span> a
+      perfect example of electromechanics! <b>Right:</b> Electric
+      fields can also be used to control adsorption into pores. In the
+      top panel, turning on a field makes it easier for the fluid to
+      enter the pore. In the bottom panel, we see that the electric
+      field can act as a switch between empty and filled states.</em>
+      </p> </div>
 
 </div>
 
