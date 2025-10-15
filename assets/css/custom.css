@@ -415,3 +415,90 @@ header.page-header {
   color: #555;
   margin-top: 8px;
 }
+
+/* --- Group Member Profile Styles --- */
+
+.profile-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0px;
+  align-items: center;
+  justify-items: center;
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 1rem;
+}
+
+/* --- Left: Profile Photo + Info --- */
+.profile-photo {
+  text-align: center;
+}
+
+.profile-photo img {
+  width: 60%;
+  height: auto;
+  border-radius: 50%;
+  border: 3px solid #b8beca;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease;
+}
+
+.profile-photo img:hover {
+  transform: scale(1.03);
+}
+
+/* --- Name, position, email under photo --- */
+.profile-info {
+  margin-top: 1rem;
+  text-align: center;
+  line-height: 1.4;
+}
+
+.profile-info h3 {
+  margin: 0.3rem 0 0.1rem;
+  font-size: 1.3rem;
+  color: #157878;
+}
+
+.profile-info p {
+  text-align: center;
+  margin: 0.15rem 0;
+  color: #333;
+}
+
+.profile-info a {
+  color: #157878;
+  text-decoration: none;
+}
+
+.profile-info a:hover {
+  text-decoration: underline;
+}
+
+/* --- Right: Biography Text --- */
+.profile-bio p {
+  text-align: justify;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin: 0 1rem;
+  color: #222;
+}
+
+/* --- Responsive Layout for Tablets and Phones --- */
+@media (max-width: 768px) {
+  .profile-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    text-align: center;
+  }
+
+  .profile-photo img {
+    width: 50%;
+  }
+
+  .profile-bio p {
+    text-align: left;
+    margin: 0 1rem;
+    font-size: 1rem;
+  }
+}
