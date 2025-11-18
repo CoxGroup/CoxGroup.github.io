@@ -515,3 +515,10 @@ header.page-header {
   margin: 0 auto;
   transition: transform 0.2s ease;
 }
+
+.publications-list {
+  max-width: 850px; /* matches group photo width / research width */
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+

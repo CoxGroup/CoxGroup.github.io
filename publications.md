@@ -5,10 +5,11 @@ title: Publications
 
 <h1>Publications</h1>
 
-<p>
-A selection of publications is shown below. A full list of publications can be found 
-<a href="https://scholar.google.co.uk/citations?user=XlgD62kAAAAJ&hl=en">here</a>.
-</p>
+<div class="homepage-text">
+  <p> A selection of publications is shown below. A full list of publications can be found 
+  <a href="https://scholar.google.co.uk/citations?user=XlgD62kAAAAJ&hl=en">here</a>.
+  </p>
+</div>
 
 {% assign publications = site.data.publications %}
 
