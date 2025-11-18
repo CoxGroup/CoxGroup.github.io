@@ -12,7 +12,7 @@ date: 2025-10-07
      Vavrin, and Sandro Sanadiradze!</p>
 
      <p>Jan joins us from the University of Cambridge and will be aiming to
-     understand the behavior of ions at the air-water interface ---
+     understand the behavior of ions at the air-water interface  <span>&#8212;</span> 
      including doing some experiments!</p>
 
      <p>Edward loves Durham so much he decided to stay, and will be working
