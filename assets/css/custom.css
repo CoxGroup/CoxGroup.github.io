@@ -175,7 +175,7 @@ header.page-header {
   }
 }
 
-.homepage-text p {
+.homepage-text {
   max-width: 800px;
   margin: 0 auto 1.5rem auto;
   font-size: 1.1rem;

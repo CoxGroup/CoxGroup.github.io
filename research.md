@@ -9,7 +9,7 @@ title: Research
 
   <p>
     A key interest of the Cox Group is to understand
-    <span>&#8212;</span> armed only with knowledge of the
+    <span>&#8212;</span> equipped only with knowledge of the
     interactions between particles <span>&#8212;</span> what
     properties emerge on large length scales. This is especially
     challenging when characteristic length scales of microscopic
