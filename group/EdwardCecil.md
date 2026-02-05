@@ -3,16 +3,21 @@ layout: default
 title: Edward Cecil
 ---
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0px; align-items: center;">
+<div class="profile-grid">
 
-<div style="text-align: center;">
-    <img src="/group/portraits/edward.jpg" alt="Edward Cecil" style="width: 60%; height: auto; border-radius: 50%;border: 3px solid #b8beca;" />
-    <div style="margin-top: 20px;">
-        <h3>Edward Cecil</h3>
-        <p><b>PhD student</b></p>
-        <p>edward.j.cecil@durham.ac.uk</p>
+  <div class="profile-photo">
+    <img src="/group/portraits/edward.jpg" alt="Edward Cecil" />
+    <div class="profile-info">
+      <h3>Edward Cecil</h3>
+      <p><b>PhD student</b></p>
+      <p><a href="mailto:edward.j.cecil@durham.ac.uk">edward.j.cecil@durham.ac.uk</a></p>
     </div>
-</div>
+  </div>
 
-<div> <p style="display: flex; align-items: center; text-align: justify;">
-</p> </div>
+
+  <div class="profile-bio">
+    <p>Edward is working to use classical density functional theory to model the behaviour of liquid crystal systems. He is interested in understanding the ferroelectric nematic phase and other behaviours where electromechanics are critical. Edward is from London and studied Natural Sciences (Chemistry and Physics) at Durham before continuing there with his PhD. In his spare time, he likes playing the trombone, writing articles for his college's satire page, and is on the University trampoline team. </p>
+  </div>
+
+</div>
+                
