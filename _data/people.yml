@@ -55,3 +55,11 @@
 #  research:
 #  - "Genuine multiscale modelling"
   url: "/group/EdwardCecil"
+
+
+- image: /group/portraits/jan.jpeg
+  name: "Jan Vavrin"
+  position: "PhD student"
+#  research:
+#  - "Genuine multiscale modelling"
+  url: "/group/JanVavrin"
