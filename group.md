@@ -5,7 +5,7 @@ permalink: /group
 ---
 
 <div class="group-photo">
-  <img src="/group/portraits/group.jpg" alt="The Cox Group" />
+  <img src="/group/portraits/group.png" alt="The Cox Group" />
 </div>
 
 <h1>Group Members</h1>
