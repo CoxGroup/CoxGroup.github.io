@@ -1,9 +1,18 @@
+- title: "Roles of Bulk and Surface Thermodynamics in the Selective Adsorption of a Confined Azeotropic Mixture"
+  authors: "KLY Zhou, AT Bui, SJ Cox"
+  year: 2026
+  journal: "J. Phys. Chem. B"
+  volume: "130"
+  article: "4455"
+  link: "https://pubs.acs.org/doi/full/10.1021/acs.jpcb.6c00640"
+  image: "/publications/azeotropes.png"
+
 - title: "Dielectrocapillarity for exquisite control of fluids"
   authors: "AT Bui, SJ Cox"
   year: 2025
-  journal: "Nature Communications (doi: 10.1038/s41467-026-69482-1)"
-  volume: ""
-  article: ""
+  journal: "Nat. Commun."
+  volume: "17"
+  article: "2661"
   link: "https://www.nature.com/articles/s41467-026-69482-1"
   image: "/publications/dielectrocap.png"
 
