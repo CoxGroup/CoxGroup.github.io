@@ -103,7 +103,7 @@ interfaces</b>.</p> </div>
 
   <div class="research-card">
     <div>
-      <img src="/group/portraits/group.jpg" alt="Group photo" />
+      <img src="/group/portraits/group.png" alt="Group photo" />
     </div>
     <a href="group" class="button">Meet the team!</a>
   </div>
