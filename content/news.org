@@ -35,7 +35,7 @@ fantastic science they are doing!
 
 We're delighted that both Anna and John passed their PhD vivas this week!
 
-#+ATTR_HTML: :alt Image of Anna, John, and supervisor Steve Cox.
+#+ATTR_HTML: :alt Anna Bui, John Hayton, and Steve Cox.
 [[file:images/news/anna_john_viva.png]]
 
 /Anna Bui and John Hayton with Steve Cox - congratulations to both!/
