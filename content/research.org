@@ -29,17 +29,20 @@ hand-picking a closed-form functional that only works for simple
 fluids, while ensuring that the ML model remains rooted in a solid
 theoretical framework.
 
-#+begin_paper-link
-[[file:images/research/cdftforionicfluids.png]]
+#+begin_export html
+<a class="tile" href=https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.134.148001>
+  <img src="images/research/cdftforionicfluids.png" alt="Thumnail for Learning classical density functionals for ionic fluids">
+  <span class="tile-caption"><i>Phys. Rev. Lett.</i> <b>134</b>, 148001 (2025)</span>
+</a>
+#+end_export
 
-See [[https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.134.148001][Learning classical density functionals for ionic fluids]].
-#+end_paper-link
 
-#+begin_paper-link
-[[file:images/research/mlips.png]]
-
-See [[https://www.pnas.org/doi/10.1073/pnas.2610049123][A unified machine-learning framework for ab initio multiscale modeling of liquids]].
-#+end_paper-link
+#+begin_export html
+<a class="tile" href=https://www.pnas.org/doi/10.1073/pnas.2610049123>
+  <img src="images/research/mlips.png" alt="Thumbnail for A unified machine-learning framework for ab initio multiscale modeling of liquids">
+  <span class="tile-caption"><i>Proc. Natl. Acad. Sci. USA</i> <b>123</b>, e2610049123 (2026)</span>
+</a>
+#+end_export
 
 ** Chemical separation
 
@@ -49,11 +52,12 @@ drives selectivity in a pore, and when bulk thermodynamic intuition
 (like the location of an azeotrope) breaks down or persists under
 confinement.
 
-#+begin_paper-link
-[[file:images/research/azeotropes.png]]
-
-See [[https://pubs.acs.org/doi/full/10.1021/acs.jpcb.6c00640][Roles of Bulk and Surface Thermodynamics in the Selective Adsorption of a Confined Azeotropic Mixture]].
-#+end_paper-link
+#+begin_export html
+<a class="tile" href=https://pubs.acs.org/doi/full/10.1021/acs.jpcb.6c00640>
+  <img src="images/research/azeotropes.png" alt="Thumbnail for Roles of Bulk and Surface Thermodynamics in the Selective Adsorption of a Confined Azeotropic Mixture">
+  <span class="tile-caption"><i>J. Phys. Chem. B</i> <b>130</b>, 4455 (2026)</span>
+</a>
+#+end_export
 
 ** Device engineering: fields and dielectric response
 
@@ -64,17 +68,19 @@ applications like blue energy cycles, where field- and
 concentration-gradients drive useful work from a liquid, by first
 getting the fundamental field response right.
 
-#+begin_paper-link
-[[file:images/research/dielectrocap.png]]
+#+begin_export html
+<a class="tile" href=https://www.nature.com/articles/s41467-026-69482-1>
+  <img src="images/research/dielectrocap.png" alt="Thumbnail for Dielectrocapillarity for exquisite control of fluids">
+  <span class="tile-caption"><i>Nat. Commun.</i> <b>17</b>, 2661 (2026)</span>
+</a>
+#+end_export
 
-See [[https://www.nature.com/articles/s41467-026-69482-1][Dielectrocapillarity for exquisite control of fluids]].
-#+end_paper-link
-
-#+begin_paper-link
-[[file:images/research/electromatrix.png]]
-
-See [[https://iopscience.iop.org/article/10.1088/1361-648X/ade7e7/meta][A first-principles approach to electromechanics in liquids]].
-#+end_paper-link
+#+begin_export html
+<a class="tile" href=https://iopscience.iop.org/article/10.1088/1361-648X/ade7e7/meta>
+  <img src="images/research/electromatrix.png" alt="Thumbnail for A first-principles approach to electromechanics in liquids">
+  <span class="tile-caption"><i>J. Phys: Condens. Matter</i> <b>37</b>, 285101 (2025)</span>
+</a>
+#+end_export
 
 ** Solvation
 
@@ -84,11 +90,12 @@ cDFT to describe solvation without the usual simplifying assumptions
 about dielectric response or ion size, so the same framework holds
 from the molecular scale up.
 
-#+begin_paper-link
-[[file:images/research/solvationacrosslengthscales.png]]
-
-See [[https://doi.org/10.1063/5.0223750][A classical density functional theory for solvation across length scales]].
-#+end_paper-link
+#+begin_export html
+<a class="tile" href=https://doi.org/10.1063/5.0223750>
+  <img src="images/research/solvationacrosslengthscales.png" alt="Thumbnail for A classical density functional theory for solvation across length scales">
+  <span class="tile-caption"><i>J. Chem. Phys.</i> <b>161</b>, 104103 (2024)</span>
+</a>
+#+end_export
 
 ** Interfacial dynamics
 
@@ -98,16 +105,18 @@ including ice nucleation, salt dissolution and crystallization, and
 friction at water-carbon interfaces. This isn't a primary focus of the
 group, but it's shaped how we think about liquid-solid interfaces.
 
-#+begin_paper-link
-[[file:images/research/QuantumFrictionTOC.webp]]
+#+begin_export html
+<a class="tile" href=https://doi.org/10.1021/acs.nanolett.2c04187>
+  <img src="images/research/QuantumFrictionTOC.webp" alt="Thumbnail for Classical Quantum Friction at Water-Carbon Interfaces">
+  <span class="tile-caption"><i>Nano Letters</i> <b>23</b>, 580 (2023)</span>
+</a>
+#+end_export
 
-See [[https://doi.org/10.1021/acs.nanolett.2c04187][Classical Quantum Friction at Water-Carbon Interfaces]]
-#+end_paper-link
-
-#+begin_paper-link
-[[file:images/research/IceThinFilmsTOC.gif]]
-
-See [[https://doi.org/10.1039/D3FD00099K][The limit of macroscopic homogeneous ice nucleation at the nanoscale]]
-#+end_paper-link
+#+begin_export html
+<a class="tile" href=https://doi.org/10.1039/D3FD00099K>
+  <img src="images/research/IceThinFilmsTOC.gif" alt="Thumbnail for The limit of macroscopic homogeneous ice nucleation at the nanoscale">
+  <span class="tile-caption"><i>Faraday Discuss.</i> <b>249</b>, 210 (2024)</span>
+</a>
+#+end_export
 
 
