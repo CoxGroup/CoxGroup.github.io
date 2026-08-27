@@ -1,1 +1,0 @@
-We present an approach which builds on the Lum-Chandler-Weeks(LCW) theory of hydrophobicity, which is both numerically simpler and generalizes to solutes with soft-core repulsion more easily. This allows us to describe solvation at a first-principles level on length scales that vastly exceed what is accessible to molecular simulations!

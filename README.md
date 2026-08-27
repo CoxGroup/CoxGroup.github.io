@@ -1,40 +1,25 @@
-# This is the Cox Group website!
+The website is organized in a series of `.org` files. The main
+homepage is contained in [`./content/index.org`](./content/index.md). Subpages are found in,
+e.g., [`./content/publications.org`](content/publications.md). All images are found in
+[`./content/images/`](./content/images/) under the appropriate subdirectory.
 
-To work on a local version of the website first clone the repo:
+The style of the website is determined by the content in
+[`./content/style.css`](content/style.css), and how the website is publised is controlled
+by [`./publish.el`](publish.el).
 
-```
-git clone https://github.com/coxgroup/coxgroup.github.io.git
-cd coxgroup.github.io.git
-```
+To work on the website locally, first clone:
 
-Then install the static site builder (Jekyll)
+    git clone https://github.com/coxgroup/coxgroup.github.io.git
+    cd coxgroup.github.io.git
 
-```
-micromamba install -n jekyll -c conda-forge gxx_linux-64 make pkg-config libffi zlib openssl yaml
-micromamba activate jekyll
-gem install bundler
-bundle install
-```
+After making changes, the website can be built:
 
-(or conda if you don't use micromamba)
+    emacs --batch -Q -l publish.el --eval '(org-publish "coxgroup" t)'
 
-Now you need to launch the server locally:
+This will create `./docs/index.html`, which can be opened in a
+browser.
 
-```
-bundle exec jekyll serve
-```
+Before pushing to `GitHub`:
 
-Now edit the files as appropriate -- you can view the changes locally
-by pointing a browser to http://127.0.0.1:4000/. When happy:
-
-```
-git add <files>
-git commit -m " <Please write an instructive comment!> "
-git push
-```
-
-**IMPORTANT**
-
-On Github, you need to check the `Actions` tab to make sure the website has actually built correctly.
-
+    touch docs/.nojekyll
 

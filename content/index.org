@@ -1,0 +1,47 @@
+#+TITLE: Cox Group Home
+#+OPTIONS: num:nil toc:nil title:nil
+
+[[file:images/durham-university-logo.svg]]
+
+* Predictive Theories of Liquids at Interfaces
+
+We develop theories of liquids that connect first-principles accuracy
+to the length and time scales where liquids actually do useful
+things — confined between surfaces, exchanging particles with a
+reservoir, and responding to applied fields.
+
+Much of our recent work combines classical density functional theory
+with machine learning to build models that stay physically
+interpretable even as they scale up: from /ab initio/ multiscale
+descriptions of liquids, to understanding how inhomogeneous electric
+fields can be used to control fluid behaviour, to unpicking what the
+impedance of an electrolyte actually tells you at a molecular level.
+
+The unifying question is simple: given a liquid's molecular
+constitution, can we predict—and eventually engineer—how it behaves at
+an interface?
+
+#+begin_export html
+<a class="tile" href="research.html">
+  <div class="tile-carousel">
+    <img src="images/research/cdftforionicfluids.png" alt="">
+    <img src="images/research/dielectrocap.png" alt="">
+    <img src="images/research/azeotropes.png" alt="">
+    <img src="images/research/electromatrix.png" alt="">
+    <img src="images/research/mlips.png" alt="">
+    <img src="images/research/solvationacrosslengthscales.png" alt="">
+  </div>
+  <span class="tile-caption">Read more about our research</span>
+</a>
+#+end_export
+
+#+begin_export html
+<a class="tile" href="people.html">
+  <img src="images/group.png" alt="The Cox Group">
+  <span class="tile-caption">Meet the team!</span>
+</a>
+#+end_export
+
+Interested in [[file:join.org][joining us?]] We are always looking for talented and
+enthusiastic individuals to join the team.
+

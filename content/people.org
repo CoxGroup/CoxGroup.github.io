@@ -1,0 +1,104 @@
+#+TITLE: Cox Group Members
+#+OPTIONS: num:nil toc:nil title:nil
+
+* Group members
+
+#+begin_people-grid
+#+begin_person
+#+ATTR_HTML: :alt Stephen Cox :class person-photo :width 160
+[[file:images/people/steve.jpg]]
+
+*Stephen Cox* \\
+Royal Society University Research Fellow and Associate Professor
+
+[[mailto:stephen.j.cox@durham.ac.uk][Email]] ⋅ [[https://orcid.org/0000-0003-2708-8711][ORCID]]
+#+end_person
+
+#+begin_person
+#+ATTR_HTML: :alt Alex Epstein :class person-photo :width 160
+[[file:images/people/alex.jpg]]
+
+*Alex Epstein* \\
+Postdoctoral Research Associate
+
+[[mailto:alexander.r.epstein@durham.ac.uk][Email]]
+#+end_person
+
+#+begin_person
+#+ATTR_HTML: :alt Anna Bui :class person-photo :width 160
+[[file:images/people/anna.jpg]]
+
+*Anna Bui* \\
+PhD Student
+
+[[mailto:btb32@cam.ac.uk][Email]]
+#+end_person
+
+#+begin_person
+#+ATTR_HTML: :alt John Hayton :class person-photo :width 160
+[[file:images/people/john.jpg]]
+
+*John Hayton* \\
+PhD Student
+
+[[mailto:jah260@cam.ac.uk][Email]]
+#+end_person
+
+#+begin_person
+#+ATTR_HTML: :alt Connie Fairchild :class person-photo :width 160
+[[file:images/people/connie.jpg]]
+
+*Connie Fairchild* \\
+PhD Student
+
+[[mailto:cf497@cam.ac.uk][Email]]
+#+end_person
+
+#+begin_person
+#+ATTR_HTML: :alt Fiona Baumhauer :class person-photo :width 160
+[[file:images/people/fiona.jpg]]
+
+*Fiona Baumhauer* \\
+PhD Student
+
+[[mailto:fb590@cam.ac.uk][Email]]
+#+end_person
+
+#+begin_person
+#+ATTR_HTML: :alt Dom Thomas :class person-photo :width 160
+[[file:images/people/dom.jpg]]
+
+*Dom Thomas* \\
+PhD Student
+
+[[mailto:dominic.p.thomas@durham.ac.uk][Email]]
+#+end_person
+
+#+begin_person
+#+ATTR_HTML: :alt Jan Vavrin :class person-photo :width 160
+[[file:images/people/jan.jpg]]
+
+*Jan Vavřín* \\
+PhD Student
+
+[[mailto:jan.vavrin@durham.ac.uk][Email]]
+#+end_person
+
+#+begin_person
+#+ATTR_HTML: :alt Edward Cecil :class person-photo :width 160
+[[file:images/people/edward.jpg]]
+
+*Edward Cecil* \\
+PhD Student
+
+[[mailto:edward.j.cecil@durham.ac.uk][Email]]
+#+end_person
+#+end_people-grid
+
+* Alumni
+
+- *Dr. Amir Hajibabaei* (2022-2024) - postdoc, now at Microsoft Research
+- *Rebecca Driver* (2024) - summer student, now PhD at King's College London
+- *Katie Zhou* (2025) - MChem student, now PhD at University of Liverpool
+- *Sandro Sanadiradze* (2026) - MChem student, now PhD at University of Cambridge
+  

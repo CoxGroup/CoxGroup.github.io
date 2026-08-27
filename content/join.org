@@ -1,0 +1,21 @@
+#+TITLE: Join us
+#+OPTIONS: num:nil toc:nil title:nil
+
+* PhD positions
+
+Two fully funded 4-year PhD positions are available (UK fees),
+funded by the Royal Society.
+
+Project details and further information will be made available in
+early Autumn. In the meantime, feel free to [[mailto:stephen.j.cox@durham.ac.uk][get in touch]] to make
+informal enquiries.
+
+* Postdoctoral positions and fellowships
+
+Postdoctoral positions will be advertised when funding becomes
+available.
+
+We're also very happy to support applications for independent
+fellowships, such as [[https://royalcommission1851.org/fellowships/research-fellowships][1851 Research Fellowships]] or [[https://marie-sklodowska-curie-actions.ec.europa.eu/][Marie
+Skłodowska-Curie Fellowships]]. If you're considering applying, [[mailto:stephen.j.cox@durham.ac.uk][get in
+touch]] to discuss a project.

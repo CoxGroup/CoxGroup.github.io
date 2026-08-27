@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 2026-08-27 Thu 09:06 -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Cox Group Research</title>
+<meta name="generator" content="Org Mode" />
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="preamble" class="status">
+<div id="site-header">
+     <a href="index.html" class="site-title">The Cox Group</a>
+     <nav>
+       <a href="index.html">Home</a>
+       <a href="people.html">People</a>
+       <a href="research.html">Research</a>
+       <a href="publications.html">Publications</a>
+       <a href="news.html">News</a>
+       <a href="join.html">Join us</a>
+     </nav>
+   </div>
+</div>
+<div id="content" class="content">
+<p>
+Our group has played a leading role in developing <b>neural classical
+density functional theory (neural cDFT)</b> for complex, molecular
+liquids — using machine learning not to replace physical theory, but
+to learn the free-energy functionals that cDFT needs, directly from
+simulation data. Not only does this allow to investigate systems on
+much larger length scales than possible with molecular simulations,
+but we can easily model systems in open equilibrium with a
+reservoir. An additional payoff is that neural cDFT is anchored in
+exact statistical mechanics; we do not need to assume <i>ad hoc</i>
+constitutive relations to gain conceptual understanding. 
+</p>
+
+<p>
+We're now applying this machinery to a range of systems where getting
+the microscopic physics right actually matters for macroscopic
+behaviour.
+</p>
+
+<p>
+Check out our <a href="publications.html">publications</a>!
+</p>
+<div id="outline-container-org6635a64" class="outline-2">
+<h2 id="org6635a64">Neural cDFT for complex liquids</h2>
+<div class="outline-text-2" id="text-org6635a64">
+<p>
+This is the methodological core of what we do. Starting from
+relatively inexpensive simulation data, we learn free-energy
+functionals for "complex" liquids — where complexity can arise from
+long-ranged interactions, nontrivial molecular geometry, or chemical
+composition — far beyond where they were trained. This avoids
+hand-picking a closed-form functional that only works for simple
+fluids, while ensuring that the ML model remains rooted in a solid
+theoretical framework.
+</p>
+
+<div class="paper-link" id="orgce8ee9e">
+
+<figure id="org9d38c86">
+<img src="images/research/cdftforionicfluids.png" alt="cdftforionicfluids.png">
+
+</figure>
+
+<p>
+See <a href="https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.134.148001">Learning classical density functionals for ionic fluids</a>.
+</p>
+
+</div>
+
+<div class="paper-link" id="org35d1025">
+
+<figure id="org6bf0a06">
+<img src="images/research/mlips.png" alt="mlips.png">
+
+</figure>
+
+<p>
+See <a href="https://www.pnas.org/doi/10.1073/pnas.2610049123">A unified machine-learning framework for ab initio multiscale modeling of liquids</a>.
+</p>
+
+</div>
+</div>
+</div>
+<div id="outline-container-orgcd79b0b" class="outline-2">
+<h2 id="orgcd79b0b">Chemical separation</h2>
+<div class="outline-text-2" id="text-orgcd79b0b">
+<p>
+Confined mixtures can behave very differently from their bulk
+counterparts, and we're using cDFT to understand <b>why</b> - what actually
+drives selectivity in a pore, and when bulk thermodynamic intuition
+(like the location of an azeotrope) breaks down or persists under
+confinement.
+</p>
+
+<div class="paper-link" id="org19de65f">
+
+<figure id="org205d33a">
+<img src="images/research/azeotropes.png" alt="azeotropes.png">
+
+</figure>
+
+<p>
+See <a href="https://pubs.acs.org/doi/full/10.1021/acs.jpcb.6c00640">Roles of Bulk and Surface Thermodynamics in the Selective Adsorption of a Confined Azeotropic Mixture</a>.
+</p>
+
+</div>
+</div>
+</div>
+<div id="outline-container-org853bfa6" class="outline-2">
+<h2 id="org853bfa6">Device engineering: fields and dielectric response</h2>
+<div class="outline-text-2" id="text-org853bfa6">
+<p>
+Liquids respond to applied fields in ways that are still poorly
+captured by standard theory - and that response is exactly what you'd
+want to exploit or control in a device. We're building toward
+applications like blue energy cycles, where field- and
+concentration-gradients drive useful work from a liquid, by first
+getting the fundamental field response right.
+</p>
+
+<div class="paper-link" id="org8bc39c2">
+
+<figure id="orgcbc298e">
+<img src="images/research/dielectrocap.png" alt="dielectrocap.png">
+
+</figure>
+
+<p>
+See <a href="https://www.nature.com/articles/s41467-026-69482-1">Dielectrocapillarity for exquisite control of fluids</a>.
+</p>
+
+</div>
+
+<div class="paper-link" id="org1d786aa">
+
+<figure id="org20f6fc5">
+<img src="images/research/electromatrix.png" alt="electromatrix.png">
+
+</figure>
+
+<p>
+See <a href="https://iopscience.iop.org/article/10.1088/1361-648X/ade7e7/meta">A first-principles approach to electromechanics in liquids</a>.
+</p>
+
+</div>
+</div>
+</div>
+<div id="outline-container-orgceb43ea" class="outline-2">
+<h2 id="orgceb43ea">Solvation</h2>
+<div class="outline-text-2" id="text-orgceb43ea">
+<p>
+How a solute reshapes the liquid around it, across length scales,
+determines everything from reaction rates to ion transport. We use
+cDFT to describe solvation without the usual simplifying assumptions
+about dielectric response or ion size, so the same framework holds
+from the molecular scale up.
+</p>
+
+<div class="paper-link" id="org6198bca">
+
+<figure id="org4a2891c">
+<img src="images/research/solvationacrosslengthscales.png" alt="solvationacrosslengthscales.png">
+
+</figure>
+
+<p>
+See <a href="https://doi.org/10.1063/5.0223750">A classical density functional theory for solvation across length scales</a>.
+</p>
+
+</div>
+</div>
+</div>
+<div id="outline-container-org0c27724" class="outline-2">
+<h2 id="org0c27724">Interfacial dynamics</h2>
+<div class="outline-text-2" id="text-org0c27724">
+<p>
+Alongside this, we've contributed to a broader set of questions around
+how liquids behave dynamically at crystal and confined interfaces -
+including ice nucleation, salt dissolution and crystallization, and
+friction at water-carbon interfaces. This isn't a primary focus of the
+group, but it's shaped how we think about liquid-solid interfaces.
+</p>
+
+<div class="paper-link" id="orgced0cfe">
+
+<figure id="org455c1c8">
+<img src="images/research/QuantumFrictionTOC.webp" alt="QuantumFrictionTOC.webp">
+
+</figure>
+
+<p>
+See <a href="https://doi.org/10.1021/acs.nanolett.2c04187">Classical Quantum Friction at Water-Carbon Interfaces</a>
+</p>
+
+</div>
+
+<div class="paper-link" id="orgeec232a">
+
+<figure id="org9b735dc">
+<img src="images/research/IceThinFilmsTOC.gif" alt="IceThinFilmsTOC.gif">
+
+</figure>
+
+<p>
+See <a href="https://doi.org/10.1039/D3FD00099K">The limit of macroscopic homogeneous ice nucleation at the nanoscale</a>
+</p>
+
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<div id="site-footer">
+             <p>The Cox Group &middot; Department of Chemistry, Durham University</p>
+             <p class="generated">Generated 2026-08-27</p>
+           </div>
+</div>
+</body>
+</html>
