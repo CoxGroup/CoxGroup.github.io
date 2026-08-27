@@ -30,6 +30,22 @@ CJ Fairchild, SJ Cox, B Rotenberg, T Sayer
 #+end_pub
 
 #+begin_pub
+*[[https://www.cell.com/chem/fulltext/S2451-9294(26)00089-6][Wetting transparency of graphene across length scales: Macroscopic transparency but nanoscopic mirror-like behavior]]*
+
+Y Wang, Y Litman, M Cho, SJ Cox, M Bonn
+
+/Chem/ *12*, 103023 (2026)
+#+end_pub
+
+#+begin_pub
+*[[https://www.science.org/doi/full/10.1126/sciadv.adz6392][Nanoconfined superionic water is a molecular superionic]]*
+
+SW Coles, A Hajibabaei, V Kapil, XR Advincula, C Schran, SJ Cox, A Michaelides
+
+/Sci. Adv./ *12*, eadz6392 (2026)
+#+end_pub
+
+#+begin_pub
 *[[https://pubs.acs.org/doi/full/10.1021/acs.jpcb.6c00640][Roles of Bulk and Surface Thermodynamics in the Selective Adsorption of a Confined Azeotropic Mixture]]*
 
 KLY Zhou, AT Bui, SJ Cox
@@ -209,6 +225,24 @@ SJ Cox
 /Proc. Natl. Acad. Sci. USA/ *117*, 19746 (2020)
 #+end_pub
 
+#+begin_pub
+*[[https://pubs.acs.org/jctcce/article-abstract/16/10/6520/606584/Computing-Surface-Acidity-Constants-of-Proton?redirectedFrom=fulltext][Computing Surface Acidity Constants of Proton Hopping Groups from
+Density Functional Theory-Based Molecular Dynamics: Application to the
+SnO2(110)/H2O Interface]]*
+
+M Jia, C Zhang, SJ Cox, M Sprik, J Cheng
+
+/J. Chem. Theor. Comput./ *16*, 6520 (2020)
+#+end_pub
+
+#+begin_pub
+*[[https://pubs.rsc.org/sc/article/11/43/11791/705514/Assessing-long-range-contributions-to-the-charge][Assessing long-range contributions to the charge asymmetry of ion adsorption at the air–water interface]]*
+
+SJ Cox, DG Thorpe, PR Shaffer, PL Geissler
+
+/Chem. Sci./ *11*, 11791 (2020)
+#+end_pub
+
 * 2019
 
 #+begin_pub
@@ -225,4 +259,12 @@ SJ Cox, M Sprik
 T Sayer, SJ Cox
 
 /Phys. Chem. Chem. Phys./ *21*, 14546 (2019)
+#+end_pub
+
+#+begin_pub
+*[[https://www.pnas.org/doi/abs/10.1073/pnas.1817135116][Ice is born in low-mobility regions of supercooled liquid water]]*
+
+M Fitzner, GC Sosso, SJ Cox, A Michaelides
+
+/Proc. Natl. Acad. Sci. USA/ *116*, 2009 (2019)
 #+end_pub
