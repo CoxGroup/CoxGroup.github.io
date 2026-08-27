@@ -87,7 +87,7 @@ a { color: var(--accent); }
   border-top: 1px solid #eee;
 }
 
-#site-footer .generated { opacity: 0.6; }
+#site-footer .generated { color: #767676; }
 
 /* Simple responsive nav wrap on narrow screens */
 @media (max-width: 600px) {

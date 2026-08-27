@@ -1,5 +1,6 @@
-#+TITLE: Join us
-#+OPTIONS: num:nil toc:nil title:nil
+#+TITLE: Join the Cox Group
+#+DESCRIPTION: PhD, postdoctoral, and fellowship opportunities in the Cox Group at Durham University, working on theories of liquids at interfaces.
+#+OPTIONS: num:nil toc:nil
 
 * PhD positions
 

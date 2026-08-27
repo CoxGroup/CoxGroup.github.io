@@ -1,5 +1,6 @@
 #+TITLE: Cox Group News
-#+OPTIONS: num:nil toc:nil title:nil
+#+DESCRIPTION: Latest news from the Cox Group at Durham University: papers, talks, prizes, and updates from the group.
+#+OPTIONS: num:nil toc:nil
 
 * 2026
 

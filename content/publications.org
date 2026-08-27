@@ -1,5 +1,6 @@
 #+TITLE: Cox Group Publications
-#+OPTIONS: num:nil toc:nil title:nil
+#+DESCRIPTION: Full list of publications from the Cox Group at Durham University, covering classical density functional theory, machine learning, and liquids at interfaces.
+#+OPTIONS: num:nil toc:nil
 
 A full list of group publications, most recent first. See also Steve's
 [[https://scholar.google.com/citations?user=XlgD62kAAAAJ&hl=en][Google Scholar profile]].

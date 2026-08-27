@@ -1,7 +1,8 @@
 #+TITLE: Cox Group Members
-#+OPTIONS: num:nil toc:nil title:nil
+#+DESCRIPTION: Meet the researchers in the Cox Group at Durham University, working on classical density functional theory and machine learning for liquids at interfaces.
+#+OPTIONS: num:nil toc:nil
 
-* Group members
+* Current group members
 
 #+begin_people-grid
 #+begin_person

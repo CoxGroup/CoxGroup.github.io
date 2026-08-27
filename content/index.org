@@ -1,6 +1,8 @@
 #+TITLE: Cox Group Home
-#+OPTIONS: num:nil toc:nil title:nil
+#+DESCRIPTION: The Cox Group at Durham University develops predictive theories of liquids at interfaces, combining classical density functional theory with machine learning.
+#+OPTIONS: num:nil toc:nil
 
+#+ATTR_HTML: :alt Durham University
 [[file:images/durham-university-logo.svg]]
 
 * Predictive Theories of Liquids at Interfaces

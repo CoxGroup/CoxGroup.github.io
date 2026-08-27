@@ -1,5 +1,6 @@
 #+TITLE: Cox Group Research
-#+OPTIONS: num:nil toc:nil title:nil
+#+DESCRIPTION: Research in the Cox Group: neural classical density functional theory (neural cDFT) for complex liquids, applied to chemical separation, field-responsive fluids, solvation, and interfacial dynamics.
+#+OPTIONS: num:nil toc:nil
 
 Our group has played a leading role in developing *neural classical
 density functional theory (neural cDFT)* for complex, molecular
