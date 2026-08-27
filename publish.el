@@ -57,7 +57,7 @@
          :html-html5-fancy t
          :html-preamble coxgroup-preamble
          :html-postamble coxgroup-postamble
-         :html-head "<link rel=\"stylesheet\" href=\"style.css\">\n<link rel=\"icon\" type=\"image/svg+xml\" href=\"favicon.svg\">"
+         :html-head "<link rel=\"stylesheet\" href=\"style.css\">\n<link rel=\"icon\" type=\"image/svg+xml\" href=\"favicon.svg\">\n<link rel=\"alternate icon\" type=\"image/png\" href=\"favicon.png\">"
          :html-head-include-default-style nil
          :html-head-include-scripts nil
 
