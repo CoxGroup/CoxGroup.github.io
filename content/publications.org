@@ -1,6 +1,12 @@
 #+TITLE: Cox Group Publications
 #+DESCRIPTION: Full list of publications from the Cox Group at Durham University, covering classical density functional theory, machine learning, and liquids at interfaces.
 #+OPTIONS: num:nil toc:nil
+#+HTML_HEAD_EXTRA: <meta property="og:type" content="website">
+#+HTML_HEAD_EXTRA: <meta property="og:title" content="Cox Group Publications">
+#+HTML_HEAD_EXTRA: <meta property="og:description" content="Full list of publications from the Cox Group at Durham University, covering classical density functional theory, machine learning, and liquids at interfaces.">
+#+HTML_HEAD_EXTRA: <meta property="og:url" content="https://coxgroup.github.io/publications.html">
+#+HTML_HEAD_EXTRA: <meta property="og:image" content="https://coxgroup.github.io/images/group.png">
+#+HTML_HEAD_EXTRA: <meta name="twitter:card" content="summary_large_image">
 
 A full list of group publications, most recent first. See also Steve's
 [[https://scholar.google.com/citations?user=XlgD62kAAAAJ&hl=en][Google Scholar profile]].

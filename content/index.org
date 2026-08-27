@@ -1,6 +1,12 @@
-#+TITLE: Cox Group Home
+#+TITLE: The Cox Group
 #+DESCRIPTION: The Cox Group at Durham University develops predictive theories of liquids at interfaces, combining classical density functional theory with machine learning.
 #+OPTIONS: num:nil toc:nil
+#+HTML_HEAD_EXTRA: <meta property="og:type" content="website">
+#+HTML_HEAD_EXTRA: <meta property="og:title" content="The Cox Group">
+#+HTML_HEAD_EXTRA: <meta property="og:description" content="The Cox Group at Durham University develops predictive theories of liquids at interfaces, combining classical density functional theory with machine learning.">
+#+HTML_HEAD_EXTRA: <meta property="og:url" content="https://coxgroup.github.io/">
+#+HTML_HEAD_EXTRA: <meta property="og:image" content="https://coxgroup.github.io/images/group.png">
+#+HTML_HEAD_EXTRA: <meta name="twitter:card" content="summary_large_image">
 
 #+ATTR_HTML: :alt Durham University
 [[file:images/durham-university-logo.svg]]

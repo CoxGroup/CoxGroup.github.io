@@ -57,7 +57,7 @@
          :html-html5-fancy t
          :html-preamble coxgroup-preamble
          :html-postamble coxgroup-postamble
-         :html-head "<link rel=\"stylesheet\" href=\"style.css\">"
+         :html-head "<link rel=\"stylesheet\" href=\"style.css\">\n<link rel=\"icon\" type=\"image/svg+xml\" href=\"favicon.svg\">"
          :html-head-include-default-style nil
          :html-head-include-scripts nil
 
@@ -72,7 +72,7 @@
 
         ("coxgroup-static"
          :base-directory ,(expand-file-name "content" coxgroup-root)
-         :base-extension "css\\|png\\|jpg\\|jpeg\\|svg\\|gif\\|webp\\|pdf"
+         :base-extension "css\\|png\\|jpg\\|jpeg\\|svg\\|gif\\|webp\\|pdf\\|txt\\|xml"
          :publishing-directory ,(expand-file-name "docs" coxgroup-root)
          :publishing-function org-publish-attachment
          :recursive t)

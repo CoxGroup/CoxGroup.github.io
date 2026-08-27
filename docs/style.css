@@ -223,7 +223,8 @@ a { color: var(--accent); }
   transition: background 0.2s ease;
 }
 
-.tile:hover .tile-caption {
+.tile:hover .tile-caption,
+.tile:focus-visible .tile-caption {
   background: rgba(var(--accent-rgb), 0.85);
 }
 

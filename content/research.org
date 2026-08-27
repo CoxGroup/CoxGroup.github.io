@@ -1,6 +1,12 @@
 #+TITLE: Cox Group Research
 #+DESCRIPTION: Research in the Cox Group: neural classical density functional theory (neural cDFT) for complex liquids, applied to chemical separation, field-responsive fluids, solvation, and interfacial dynamics.
 #+OPTIONS: num:nil toc:nil
+#+HTML_HEAD_EXTRA: <meta property="og:type" content="website">
+#+HTML_HEAD_EXTRA: <meta property="og:title" content="Cox Group Research">
+#+HTML_HEAD_EXTRA: <meta property="og:description" content="Research in the Cox Group: neural classical density functional theory (neural cDFT) for complex liquids, applied to chemical separation, field-responsive fluids, solvation, and interfacial dynamics.">
+#+HTML_HEAD_EXTRA: <meta property="og:url" content="https://coxgroup.github.io/research.html">
+#+HTML_HEAD_EXTRA: <meta property="og:image" content="https://coxgroup.github.io/images/group.png">
+#+HTML_HEAD_EXTRA: <meta name="twitter:card" content="summary_large_image">
 
 Our group has played a leading role in developing *neural classical
 density functional theory (neural cDFT)* for complex, molecular
