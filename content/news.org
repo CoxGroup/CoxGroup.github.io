@@ -11,6 +11,20 @@
 * 2026
 
 #+begin_news
+*Goodbye and good luck, Anna!* /(1 September 2026)/
+
+Today we bid farewell to Anna, who leaves the group after five
+years. While we are very sad to see her go, we are also delighted and
+excited for her new adventure as a Research Fellow at Stanford
+University.
+
+Anna has achieved a great deal during her PhD studies and has been a
+tremendous source of support for other members of the group. We are
+grateful for all her contributions and wish her every success in her
+new role.
+#+end_news
+
+#+begin_news
 *Anna's paper on /ab initio/ multiscale modeling of liquids published in PNAS* /(24 July 2026)/
 
 Delighted that Anna's paper /A unified machine-learning framework for
