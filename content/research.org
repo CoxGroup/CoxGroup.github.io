@@ -9,15 +9,15 @@
 #+HTML_HEAD_EXTRA: <meta name="twitter:card" content="summary_large_image">
 
 Our group has played a leading role in developing *neural classical
-density functional theory (neural cDFT)* for complex, molecular
-liquids — using machine learning not to replace physical theory, but
+density functional theory (neural cDFT) for complex, molecular
+liquids* — using machine learning not to replace physical theory, but
 to learn the free-energy functionals that cDFT needs, directly from
 simulation data. Not only does this allow to investigate systems on
 much larger length scales than possible with molecular simulations,
 but we can easily model systems in open equilibrium with a
 reservoir. An additional payoff is that neural cDFT is anchored in
 exact statistical mechanics; we do not need to assume /ad hoc/
-constitutive relations to gain conceptual understanding. 
+constitutive relations to gain conceptual understanding.
 
 We're now applying this machinery to a range of systems where getting
 the microscopic physics right actually matters for macroscopic
