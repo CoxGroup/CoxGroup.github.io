@@ -32,16 +32,6 @@ Postdoctoral Research Associate
 #+end_person
 
 #+begin_person
-#+ATTR_HTML: :alt Anna Bui :class person-photo :width 160
-[[file:images/people/anna.jpg]]
-
-*Anna Bui* \\
-PhD Student
-
-[[mailto:btb32@cam.ac.uk][Email]]
-#+end_person
-
-#+begin_person
 #+ATTR_HTML: :alt John Hayton :class person-photo :width 160
 [[file:images/people/john.jpg]]
 
@@ -104,6 +94,7 @@ PhD Student
 
 * Alumni
 
+- *Dr. Anna Bui* (2021-2026) - PhD student, now Stanford Science Fellow at Stanford University
 - *Dr. Amir Hajibabaei* (2022-2024) - postdoc, now at Microsoft Research
 - *Rebecca Driver* (2024) - summer student, now PhD at King's College London
 - *Katie Zhou* (2025) - MChem student, now PhD at University of Liverpool
