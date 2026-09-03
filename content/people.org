@@ -90,6 +90,15 @@ PhD Student
 
 [[mailto:edward.j.cecil@durham.ac.uk][Email]]
 #+end_person
+
+#+begin_person
+#+ATTR_HTML: :alt Lewis the Bear :class person-photo :width 160
+[[file:images/people/lewis.jpg]]
+
+*Lewis the Bear* \\
+Group Mascot
+
+#+end_person
 #+end_people-grid
 
 * Alumni
