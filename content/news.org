@@ -11,6 +11,25 @@
 * 2026
 
 #+begin_news
+*DFT Days 2026, Paris* /(9-11 September 2026)/
+
+Last week, the group visited Paris for the annual DFT days
+meeting. Steve presented the latest work from Dom and Connie in which
+they are extending neural cDFT to describe electrochemical systems.
+
+#+ATTR_HTML: :alt Steve Cox presenting talk.
+[[file:images/news/DFTdays2026.jpg]]
+/Steve presenting Dom and Connie's work at DFT Days 2026 in Paris/
+
+While in the beautiful and historic setting of the Sorbonne, we also
+took the opportunity to update our group photo!
+
+#+ATTR_HTML: :alt Cox group at Sorbonne University, Paris.
+[[file:images/group_sept2026.jpg]]
+/Left to right: Jan, Dom, Steve, Connie, Edward, Alex/
+#+end_news
+
+#+begin_news
 *Goodbye and good luck, Anna!* /(1 September 2026)/
 
 Today we bid farewell to Anna, who leaves the group after five
