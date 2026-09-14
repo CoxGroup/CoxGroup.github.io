@@ -210,6 +210,14 @@ a { color: var(--accent); }
   object-position: top;
 }
 
+/* group_sept2026.jpg has everyone's heads well below the top of the
+   frame, so the default top-biased crop above shows mostly background.
+   Shift down to keep faces near the top of the band and legs visible
+   below, down to about the knees. */
+.tile > img.group-photo {
+  object-position: center 45%;
+}
+
 .tile-caption {
   position: absolute;
   left: 0; right: 0; bottom: 0;
