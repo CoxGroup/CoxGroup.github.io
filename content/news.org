@@ -11,13 +11,27 @@
 * 2026
 
 #+begin_news
+*Thermodynamics 2026, London* /(13-15 September 2026)/
+
+After a quiet summer, it's been a busy week; Steve, Alex, and Dom
+attended the Thermodynamics 2026 meeting held at Imperial, straight
+after the trip to Paris. Steve presented a short talk summarizing Anna
+Bui's PhD work on neural cDFT for complex liquids.
+
+#+ATTR_HTML: :alt Steve Cox presenting a talk.
+[[file:images/news/thermo2026.jpg]]
+/Steve presenting Anna Bui's PhD work at Thermodynamics 2026 in London/
+#+end_news
+
+
+#+begin_news
 *DFT Days 2026, Paris* /(9-11 September 2026)/
 
 Last week, the group visited Paris for the annual DFT days
 meeting. Steve presented the latest work from Dom and Connie in which
 they are extending neural cDFT to describe electrochemical systems.
 
-#+ATTR_HTML: :alt Steve Cox presenting talk.
+#+ATTR_HTML: :alt Steve Cox presenting a talk.
 [[file:images/news/DFTdays2026.jpg]]
 /Steve presenting Dom and Connie's work at DFT Days 2026 in Paris/
 
