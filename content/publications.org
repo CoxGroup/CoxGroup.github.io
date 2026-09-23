@@ -22,11 +22,11 @@ AT Bui, SJ Cox
 #+end_pub
 
 #+begin_pub
-*[[https://doi.org/10.48550/arXiv.2607.02316][Molecular interpretability of the bulk electrochemical impedance of concentrated electrolytes]]*
+*[[https://doi.org/10.1016/j.electacta.2026.149863][Molecular interpretability of the bulk electrochemical impedance of concentrated electrolytes]]*
 
 CJ Fairchild, SJ Cox, B Rotenberg, T Sayer
 
-/arXiv:2607.02316/ (2026)
+/Electrochim. Acta/ *580*, 149863 (2026)
 #+end_pub
 
 #+begin_pub
