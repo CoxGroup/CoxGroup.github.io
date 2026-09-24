@@ -11,6 +11,18 @@
 * 2026
 
 #+begin_news
+*John becomes Project Chemist at Isaac Physics!* /(24 September 2026)/
+
+Having successfuly defended his PhD thesis, John has successfully
+secured a job as a Project Chemist with the [[https://isaacscience.org][Isaac Science
+Project]]. John will be working with the Isaac Science team in expanding
+the Chemistry side of the initiative.
+
+Congratulations John!
+#+end_news
+
+
+#+begin_news
 *Connie's paper published in Electrochim. Acta!* /(23 September 2026)/
 
 Congratulations to Connie on her first first-author paper!
