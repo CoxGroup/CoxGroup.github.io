@@ -46,7 +46,7 @@ SW Coles, A Hajibabaei, V Kapil, XR Advincula, C Schran, SJ Cox, A Michaelides
 #+end_pub
 
 #+begin_pub
-*[[https://pubs.acs.org/doi/full/10.1021/acs.jpcb.6c00640][Roles of Bulk and Surface Thermodynamics in the Selective Adsorption of a Confined Azeotropic Mixture]]*
+*[[https://pubs.acs.org/doi/full/10.1021/acs.jpcb.6c00640][Roles of Bulk and Surface Thermodynamics in the Selective Adsorption of a Confined Azeotropic Mixture]]
 
 KLY Zhou, AT Bui, SJ Cox
 

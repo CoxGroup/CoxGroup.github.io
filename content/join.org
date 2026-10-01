@@ -10,13 +10,81 @@
 
 * PhD positions
 
-Two fully funded 4-year PhD positions are available (UK fees),
-funded by the Royal Society.
+Two fully funded 4-year PhD positions are available in the Cox Group
+at Durham University, funded by the Royal Society. The positions start
+in October 2027 and are open to applicants who qualify for UK ("home")
+fees. International students should contact [[mailto:stephen.j.cox@durham.ac.uk][Stephen Cox]] to discuss
+other potential funding options.
 
-Project details and further information will be made available in
-early Autumn. In the meantime, feel free to [[mailto:stephen.j.cox@durham.ac.uk][get in touch]] to make
-informal enquiries.
+The deadline for applications is *30 November 2026*.
 
+** The research
+
+Aided by machine learning, the [[https://coxgroup.github.io][Cox Group]] has recently made significant
+advances in classical density functional theory (neural cDFT) for
+complex fluids relevant to chemistry. Recent highlights:
+
+- [[https://doi.org/10.1103/PhysRevLett.134.148001][/Phys. Rev. Lett./ *134*, 148001 (2025)]]: accurate incorporation of
+  electrostatics into neural cDFT.
+
+  
+- [[https://iopscience.iop.org/article/10.1088/1361-648X/ade7e7/meta][/J. Phys.: Condens. Matter/ *37*, 285101 (2025)]]: a rigorous theory of
+  electromechanics in fluids.
+
+  
+- [[https://www.nature.com/articles/s41467-026-69482-1][/Nat. Commun./ *17*, 2661 (2026)]]: discovery of dielectrocapillarity, a
+  new phenomenon in which electric field gradients influence the
+  adsorption of polar fluids in porous media.
+
+  
+- [[https://pubs.acs.org/doi/full/10.1021/acs.jpcb.6c00640][/J. Phys. Chem. B/ *130*, 4455 (2026)]]: the thermodynamic driving forces
+  governing selective adsorption of chemical mixtures in pores.
+
+  
+- [[https://www.pnas.org/doi/10.1073/pnas.2610049123][/Proc. Natl. Acad. Sci./ *123*, e2610049123 (2026)]]: coupling neural cDFT
+  with machine-learned interatomic potentials to understand the
+  statistical mechanics of liquids from first principles.
+
+Building on these foundations, we now aim to uncover the
+thermodynamic principles underlying chemical separation and
+electromechanical behaviour (i.e., how matter distributes under
+electric fields) at the nanoscale. This supports the long-term goal
+of establishing design principles for improved nanoscale devices.
+
+** The projects
+
+- *Project 1* will focus primarily on chemical separation, complementing
+  our existing research on carbon dioxide mixtures.
+
+  
+- *Project 2* will focus primarily on electromechanics, complementing
+  our current efforts to model electrochemical interfaces.
+
+Depending on the candidate's interests and expertise, both projects
+offer scope to explore nonequilibrium effects. Both will develop
+theoretical and computational skills, including machine learning and
+molecular simulation.
+
+** Who should apply
+
+We strongly encourage applications from students with a solid
+background in statistical mechanics, whether in Chemistry, Physics,
+Materials Science, or a related discipline. Some experience with
+scientific programming (e.g., Python) is helpful but not essential.
+
+** How to apply
+
+To apply, or for informal enquiries, email [[mailto:stephen.j.cox@durham.ac.uk][Stephen Cox]] with:
+
+- A brief personal statement outlining your research experience,
+  skills relevant to the project(s), and your goals for a PhD.
+
+  
+- A CV including your performance in relevant university courses.
+
+  
+- Names and email addresses of two academic or professional referees.
+  
 * Postdoctoral positions and fellowships
 
 Postdoctoral positions will be advertised when funding becomes
