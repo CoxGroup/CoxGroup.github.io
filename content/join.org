@@ -10,7 +10,7 @@
 
 * PhD positions
 
-Two fully funded 4-year PhD positions are available in the Cox Group
+Two fully funded 4-year PhD positions are available in the [[https://coxgroup.github.io][Cox Group]]
 at Durham University, funded by the Royal Society. The positions start
 in October 2027 and are open to applicants who qualify for UK ("home")
 fees. International students should contact [[mailto:stephen.j.cox@durham.ac.uk][Stephen Cox]] to discuss
@@ -20,7 +20,7 @@ The deadline for applications is *30 November 2026*.
 
 ** The research
 
-Aided by machine learning, the [[https://coxgroup.github.io][Cox Group]] has recently made significant
+Aided by machine learning, the Cox Group has recently made significant
 advances in classical density functional theory (neural cDFT) for
 complex fluids relevant to chemistry. Recent highlights:
 
