@@ -11,6 +11,19 @@
 * 2026
 
 #+begin_news
+*Alex wins poster prize at Thermodynamics2026!* /(9 October 2026)/
+
+Congratulations to Alex on winning a poster prize at [[https://thermodynamics2026.org][Thermodynamics2026]].
+
+Alex presented a poster, accompanied by a flash talk, on understanding
+how hydrophobicity mediates interactions between solutes. A paper
+describing this work will appear soon.
+
+Well done, Alex!
+#+end_news
+
+
+#+begin_news
 *John becomes Project Chemist at Isaac Physics!* /(24 September 2026)/
 
 Having successfuly defended his PhD thesis, John has successfully
